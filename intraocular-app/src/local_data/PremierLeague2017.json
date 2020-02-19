@@ -1,0 +1,4277 @@
+[
+  {
+    "name": "Kevin De Bruyne",
+    "teams": "Manchester City",
+    "minutes": 3216,
+    "fifa": 89,
+    "APM": 0.218985481487063,
+    "AugAPM": 0.31255716051065,
+    "AugAPMSE": 0.0925696919352525
+  },
+  {
+    "name": "David Josué Jimenez Silva",
+    "teams": "Manchester City",
+    "minutes": 2459,
+    "fifa": 87,
+    "APM": 0.215302407098367,
+    "AugAPM": 0.291684297705423,
+    "AugAPMSE": 0.0962290618188073
+  },
+  {
+    "name": "Sergio Agüero",
+    "teams": "Manchester City",
+    "minutes": 2059,
+    "fifa": 89,
+    "APM": 0.168997231939665,
+    "AugAPM": 0.277472294948969,
+    "AugAPMSE": 0.0954435204631218
+  },
+  {
+    "name": "Mohamed Salah",
+    "teams": "Liverpool",
+    "minutes": 3013,
+    "fifa": 83,
+    "APM": 0.241042277881317,
+    "AugAPM": 0.261405453675085,
+    "AugAPMSE": 0.0940881245700382
+  },
+  {
+    "name": "Sadio Mané",
+    "teams": "Liverpool",
+    "minutes": 2260,
+    "fifa": 84,
+    "APM": 0.14224919897552,
+    "AugAPM": 0.217495858943056,
+    "AugAPMSE": 0.0980579356822893
+  },
+  {
+    "name": "Eric Bailly",
+    "teams": "Manchester United",
+    "minutes": 1064,
+    "fifa": 84,
+    "APM": 0.144478707799888,
+    "AugAPM": 0.215263958503579,
+    "AugAPMSE": 0.0972367019869515
+  },
+  {
+    "name": "Romelu Lukaku",
+    "teams": "Manchester United",
+    "minutes": 3023,
+    "fifa": 86,
+    "APM": 0.149064020588981,
+    "AugAPM": 0.210957074551717,
+    "AugAPMSE": 0.0951674369607263
+  },
+  {
+    "name": "Wilfried Zaha",
+    "teams": "Crystal Palace",
+    "minutes": 2683,
+    "fifa": 81,
+    "APM": 0.161452412919659,
+    "AugAPM": 0.200955944909113,
+    "AugAPMSE": 0.092673838848401
+  },
+  {
+    "name": "Henrikh Mkhitaryan",
+    "teams": "Manchester United,Arsenal",
+    "minutes": 1776,
+    "fifa": 85,
+    "APM": 0.106968471601396,
+    "AugAPM": 0.200870405228156,
+    "AugAPMSE": 0.094280764148863
+  },
+  {
+    "name": "Aymeric Laporte",
+    "teams": "Manchester City",
+    "minutes": 842,
+    "fifa": 84,
+    "APM": 0.130180246131455,
+    "AugAPM": 0.199499910166295,
+    "AugAPMSE": 0.0982013345702139
+  },
+  {
+    "name": "Heung Min Son",
+    "teams": "Tottenham Hotspur",
+    "minutes": 2401,
+    "fifa": 82,
+    "APM": 0.222128440466057,
+    "AugAPM": 0.197162352118345,
+    "AugAPMSE": 0.0956352162102954
+  },
+  {
+    "name": "Kyle Walker",
+    "teams": "Manchester City,Tottenham Hotspur",
+    "minutes": 3185,
+    "fifa": 83,
+    "APM": 0.197466270085435,
+    "AugAPM": 0.195339402594416,
+    "AugAPMSE": 0.0918455404010514
+  },
+  {
+    "name": "Roberto Firmino Barbosa de Oliveira",
+    "teams": "Liverpool",
+    "minutes": 2865,
+    "fifa": 83,
+    "APM": 0.131499630103481,
+    "AugAPM": 0.194665209360722,
+    "AugAPMSE": 0.0947444398531281
+  },
+  {
+    "name": "Bernardo Mota Carvalho e Silva",
+    "teams": "Manchester City",
+    "minutes": 1648,
+    "fifa": 84,
+    "APM": 0.134644415169467,
+    "AugAPM": 0.194597823458875,
+    "AugAPMSE": 0.0967034595352444
+  },
+  {
+    "name": "Eden Hazard",
+    "teams": "Chelsea",
+    "minutes": 2521,
+    "fifa": 90,
+    "APM": 0.0684144558024212,
+    "AugAPM": 0.192378353775531,
+    "AugAPMSE": 0.0933662177867352
+  },
+  {
+    "name": "Gabriel Fernando de Jesus",
+    "teams": "Manchester City",
+    "minutes": 1741,
+    "fifa": 81,
+    "APM": 0.185040930765768,
+    "AugAPM": 0.186092229879377,
+    "AugAPMSE": 0.091502149230603
+  },
+  {
+    "name": "Paul Pogba",
+    "teams": "Manchester United",
+    "minutes": 2253,
+    "fifa": 87,
+    "APM": 0.100562958790064,
+    "AugAPM": 0.185657378460913,
+    "AugAPMSE": 0.0969848490008894
+  },
+  {
+    "name": "Alexandre Lacazette",
+    "teams": "Arsenal",
+    "minutes": 2289,
+    "fifa": 85,
+    "APM": 0.121297073732148,
+    "AugAPM": 0.185174246588065,
+    "AugAPMSE": 0.0968207355856983
+  },
+  {
+    "name": "Zlatan Ibrahimović",
+    "teams": "Manchester United",
+    "minutes": 122,
+    "fifa": 90,
+    "APM": -0.0522376490486447,
+    "AugAPM": 0.184702065337904,
+    "AugAPMSE": 0.105367247099156
+  },
+  {
+    "name": "Philippe Coutinho Correia",
+    "teams": "Liverpool",
+    "minutes": 1141,
+    "fifa": 86,
+    "APM": 0.0414728338297483,
+    "AugAPM": 0.184439865925304,
+    "AugAPMSE": 0.0978582590337245
+  },
+  {
+    "name": "Joel Matip",
+    "teams": "Liverpool",
+    "minutes": 2116,
+    "fifa": 83,
+    "APM": 0.117818880430761,
+    "AugAPM": 0.183913347005242,
+    "AugAPMSE": 0.0980047982622585
+  },
+  {
+    "name": "Christian Eriksen",
+    "teams": "Tottenham Hotspur",
+    "minutes": 3373,
+    "fifa": 87,
+    "APM": 0.105841355914746,
+    "AugAPM": 0.182389275271021,
+    "AugAPMSE": 0.0939592713406979
+  },
+  {
+    "name": "Georginio Wijnaldum",
+    "teams": "Liverpool",
+    "minutes": 2518,
+    "fifa": 82,
+    "APM": 0.131654599217959,
+    "AugAPM": 0.180304054648082,
+    "AugAPMSE": 0.0940421814282989
+  },
+  {
+    "name": "Raheem Sterling",
+    "teams": "Manchester City",
+    "minutes": 2717,
+    "fifa": 82,
+    "APM": 0.165145726451454,
+    "AugAPM": 0.174893851901591,
+    "AugAPMSE": 0.0965778747696719
+  },
+  {
+    "name": "İlkay Gündoğan",
+    "teams": "Manchester City",
+    "minutes": 1614,
+    "fifa": 85,
+    "APM": 0.076839159653098,
+    "AugAPM": 0.17360824631747,
+    "AugAPMSE": 0.0963268386177453
+  },
+  {
+    "name": "Antonio Valencia",
+    "teams": "Manchester United",
+    "minutes": 2879,
+    "fifa": 83,
+    "APM": 0.151930859545498,
+    "AugAPM": 0.168499770107484,
+    "AugAPMSE": 0.0942969075305591
+  },
+  {
+    "name": "Alexis Sánchez",
+    "teams": "Arsenal,Manchester United",
+    "minutes": 2649,
+    "fifa": 89,
+    "APM": 0.0442636291136987,
+    "AugAPM": 0.16824361897063,
+    "AugAPMSE": 0.0969625276109939
+  },
+  {
+    "name": "Fernando Luiz Rosa",
+    "teams": "Manchester City",
+    "minutes": 3038,
+    "fifa": 82,
+    "APM": 0.156543589284215,
+    "AugAPM": 0.16820476418693,
+    "AugAPMSE": 0.0953739587144368
+  },
+  {
+    "name": "Nicolás Otamendi",
+    "teams": "Manchester City",
+    "minutes": 3127,
+    "fifa": 83,
+    "APM": 0.132642350892649,
+    "AugAPM": 0.165297129299243,
+    "AugAPMSE": 0.090685693350558
+  },
+  {
+    "name": "Dele Alli",
+    "teams": "Tottenham Hotspur",
+    "minutes": 3079,
+    "fifa": 84,
+    "APM": 0.132722170601029,
+    "AugAPM": 0.162664629626349,
+    "AugAPMSE": 0.0973091162049854
+  },
+  {
+    "name": "Jan Vertonghen",
+    "teams": "Tottenham Hotspur",
+    "minutes": 3377,
+    "fifa": 85,
+    "APM": 0.109178003713295,
+    "AugAPM": 0.162330970184654,
+    "AugAPMSE": 0.0942537118515394
+  },
+  {
+    "name": "Mesut Özil",
+    "teams": "Arsenal",
+    "minutes": 2273,
+    "fifa": 88,
+    "APM": 0.0276273394603116,
+    "AugAPM": 0.16165124456178,
+    "AugAPMSE": 0.0949370180868372
+  },
+  {
+    "name": "Shkodran Mustafi",
+    "teams": "Arsenal",
+    "minutes": 2393,
+    "fifa": 84,
+    "APM": 0.0873847897611306,
+    "AugAPM": 0.155287190262337,
+    "AugAPMSE": 0.0928552985738475
+  },
+  {
+    "name": "Jordan Henderson",
+    "teams": "Liverpool",
+    "minutes": 2284,
+    "fifa": 82,
+    "APM": 0.100111092314338,
+    "AugAPM": 0.152100347602982,
+    "AugAPMSE": 0.0922993435978411
+  },
+  {
+    "name": "João Mário Naval Costa Eduardo",
+    "teams": "West Ham United",
+    "minutes": 1062,
+    "fifa": 83,
+    "APM": 0.0320075068076963,
+    "AugAPM": 0.147843360227814,
+    "AugAPMSE": 0.0965288046828533
+  },
+  {
+    "name": "David Luiz Moreira Marinho",
+    "teams": "Chelsea",
+    "minutes": 886,
+    "fifa": 86,
+    "APM": 0.00386714864616032,
+    "AugAPM": 0.146043029866455,
+    "AugAPMSE": 0.0959670006930195
+  },
+  {
+    "name": "Leroy Sané",
+    "teams": "Manchester City",
+    "minutes": 2544,
+    "fifa": 82,
+    "APM": 0.107224497879896,
+    "AugAPM": 0.144596376974594,
+    "AugAPMSE": 0.0934381487059356
+  },
+  {
+    "name": "Nemanja Matić",
+    "teams": "Manchester United",
+    "minutes": 3285,
+    "fifa": 83,
+    "APM": 0.135045267305252,
+    "AugAPM": 0.142978425326019,
+    "AugAPMSE": 0.0951960351589452
+  },
+  {
+    "name": "Vincent Kompany",
+    "teams": "Manchester City",
+    "minutes": 1467,
+    "fifa": 85,
+    "APM": 0.0221993010827905,
+    "AugAPM": 0.140919805753938,
+    "AugAPMSE": 0.0937068236761746
+  },
+  {
+    "name": "Dejan Lovren",
+    "teams": "Liverpool",
+    "minutes": 2257,
+    "fifa": 81,
+    "APM": 0.095113149439618,
+    "AugAPM": 0.140490314805457,
+    "AugAPMSE": 0.0941021391185919
+  },
+  {
+    "name": "Marouane Fellaini",
+    "teams": "Manchester United",
+    "minutes": 680,
+    "fifa": 79,
+    "APM": 0.146309876972577,
+    "AugAPM": 0.139348075608612,
+    "AugAPMSE": 0.0962117368290258
+  },
+  {
+    "name": "Toby Alderweireld",
+    "teams": "Tottenham Hotspur",
+    "minutes": 1256,
+    "fifa": 86,
+    "APM": 0.00324379334550384,
+    "AugAPM": 0.138613807132282,
+    "AugAPMSE": 0.0935657167735971
+  },
+  {
+    "name": "Anthony Martial",
+    "teams": "Manchester United",
+    "minutes": 1660,
+    "fifa": 82,
+    "APM": 0.103506195762182,
+    "AugAPM": 0.138097736547624,
+    "AugAPMSE": 0.0973245341551249
+  },
+  {
+    "name": "James Tomkins",
+    "teams": "Crystal Palace",
+    "minutes": 2515,
+    "fifa": 76,
+    "APM": 0.16062096877292,
+    "AugAPM": 0.136608276013962,
+    "AugAPMSE": 0.0970399581573823
+  },
+  {
+    "name": "Idrissa Gueye",
+    "teams": "Everton",
+    "minutes": 2909,
+    "fifa": 83,
+    "APM": 0.0344904007552751,
+    "AugAPM": 0.134248991781976,
+    "AugAPMSE": 0.0925571579478478
+  },
+  {
+    "name": "Pedro Rodríguez Ledesma",
+    "teams": "Chelsea",
+    "minutes": 1606,
+    "fifa": 84,
+    "APM": 0.0680845757451508,
+    "AugAPM": 0.13223942271326,
+    "AugAPMSE": 0.0937842847189649
+  },
+  {
+    "name": "N'Golo Kanté",
+    "teams": "Chelsea",
+    "minutes": 3145,
+    "fifa": 87,
+    "APM": 0.0548468284494388,
+    "AugAPM": 0.13107435991473,
+    "AugAPMSE": 0.0937434847061611
+  },
+  {
+    "name": "Serge Aurier",
+    "teams": "Tottenham Hotspur",
+    "minutes": 1525,
+    "fifa": 81,
+    "APM": 0.124798085485373,
+    "AugAPM": 0.130894701447679,
+    "AugAPMSE": 0.0967356250321716
+  },
+  {
+    "name": "Gerard Deulofeu Lázaro",
+    "teams": "Watford",
+    "minutes": 450,
+    "fifa": 82,
+    "APM": 0.0404997104107788,
+    "AugAPM": 0.125078060924303,
+    "AugAPMSE": 0.0981119520877627
+  },
+  {
+    "name": "Jack Wilshere",
+    "teams": "Arsenal",
+    "minutes": 1277,
+    "fifa": 81,
+    "APM": 0.0889713982091728,
+    "AugAPM": 0.124058146101949,
+    "AugAPMSE": 0.0951338667956335
+  },
+  {
+    "name": "Antonio Rüdiger",
+    "teams": "Chelsea",
+    "minutes": 2465,
+    "fifa": 82,
+    "APM": 0.125163998712792,
+    "AugAPM": 0.123048773513057,
+    "AugAPMSE": 0.096566968394714
+  },
+  {
+    "name": "Álvaro Borja Morata Martín",
+    "teams": "Chelsea",
+    "minutes": 2154,
+    "fifa": 84,
+    "APM": 0.0630217045046083,
+    "AugAPM": 0.122210599577695,
+    "AugAPMSE": 0.0960513477146247
+  },
+  {
+    "name": "Mamadou Sakho",
+    "teams": "Crystal Palace",
+    "minutes": 1679,
+    "fifa": 81,
+    "APM": 0.0519901419742936,
+    "AugAPM": 0.121900215120836,
+    "AugAPMSE": 0.0981000336447667
+  },
+  {
+    "name": "Vicente Iborra de la Fuente",
+    "teams": "Leicester City",
+    "minutes": 1483,
+    "fifa": 82,
+    "APM": 0.0485508657582548,
+    "AugAPM": 0.121720651493199,
+    "AugAPMSE": 0.0923929785195696
+  },
+  {
+    "name": "Laurent Koscielny",
+    "teams": "Arsenal",
+    "minutes": 2335,
+    "fifa": 84,
+    "APM": 0.0674267929126073,
+    "AugAPM": 0.119163278988373,
+    "AugAPMSE": 0.0917220798853235
+  },
+  {
+    "name": "Riyad Mahrez",
+    "teams": "Leicester City",
+    "minutes": 3085,
+    "fifa": 83,
+    "APM": 0.00765062777488512,
+    "AugAPM": 0.118328639915585,
+    "AugAPMSE": 0.0956414709175689
+  },
+  {
+    "name": "Emre Can",
+    "teams": "Liverpool",
+    "minutes": 2202,
+    "fifa": 79,
+    "APM": 0.104578865592951,
+    "AugAPM": 0.118005639133914,
+    "AugAPMSE": 0.0922705857650466
+  },
+  {
+    "name": "Francesc Fàbregas i Soler",
+    "teams": "Chelsea",
+    "minutes": 2436,
+    "fifa": 86,
+    "APM": 0.0242978564136174,
+    "AugAPM": 0.112457199795295,
+    "AugAPMSE": 0.0996691632914855
+  },
+  {
+    "name": "Yaya Touré",
+    "teams": "Manchester City",
+    "minutes": 267,
+    "fifa": 83,
+    "APM": 0.000879301284482637,
+    "AugAPM": 0.110794096957355,
+    "AugAPMSE": 0.0992050501454316
+  },
+  {
+    "name": "Aaron Ramsey",
+    "teams": "Arsenal",
+    "minutes": 1936,
+    "fifa": 82,
+    "APM": 0.0804922191697197,
+    "AugAPM": 0.110675324723463,
+    "AugAPMSE": 0.0958587781673974
+  },
+  {
+    "name": "Moussa Dembélé",
+    "teams": "Tottenham Hotspur",
+    "minutes": 1963,
+    "fifa": 82,
+    "APM": 0.0670902320031977,
+    "AugAPM": 0.1100117518182,
+    "AugAPMSE": 0.0937660591539101
+  },
+  {
+    "name": "Islam Slimani",
+    "teams": "Leicester City,Newcastle United",
+    "minutes": 440,
+    "fifa": 82,
+    "APM": 0.0112718574309372,
+    "AugAPM": 0.109064739249284,
+    "AugAPMSE": 0.0967581251618503
+  },
+  {
+    "name": "Daley Blind",
+    "teams": "Manchester United",
+    "minutes": 387,
+    "fifa": 80,
+    "APM": 0.08109430725547,
+    "AugAPM": 0.108486486104664,
+    "AugAPMSE": 0.0982734901956305
+  },
+  {
+    "name": "Virgil van Dijk",
+    "teams": "Southampton,Liverpool",
+    "minutes": 2384,
+    "fifa": 83,
+    "APM": 0.0176873977082213,
+    "AugAPM": 0.108351960681515,
+    "AugAPMSE": 0.093759710889861
+  },
+  {
+    "name": "Granit Xhaka",
+    "teams": "Arsenal",
+    "minutes": 3409,
+    "fifa": 82,
+    "APM": 0.0802477308953913,
+    "AugAPM": 0.10784719450747,
+    "AugAPMSE": 0.0949982057192697
+  },
+  {
+    "name": "Willian Borges da Silva",
+    "teams": "Chelsea",
+    "minutes": 2009,
+    "fifa": 84,
+    "APM": 0.0447470095280084,
+    "AugAPM": 0.107780977162916,
+    "AugAPMSE": 0.0951418144260788
+  },
+  {
+    "name": "Davinson Sánchez",
+    "teams": "Tottenham Hotspur",
+    "minutes": 2688,
+    "fifa": 81,
+    "APM": 0.108215315549519,
+    "AugAPM": 0.107712106087984,
+    "AugAPMSE": 0.0946326111867964
+  },
+  {
+    "name": "Ben Mee",
+    "teams": "Burnley",
+    "minutes": 2751,
+    "fifa": 78,
+    "APM": 0.0520534716655091,
+    "AugAPM": 0.107623382158908,
+    "AugAPMSE": 0.0947475475013804
+  },
+  {
+    "name": "Harry Kane",
+    "teams": "Tottenham Hotspur",
+    "minutes": 3226,
+    "fifa": 86,
+    "APM": 0.017980369527788,
+    "AugAPM": 0.107614726947874,
+    "AugAPMSE": 0.0935326348729138
+  },
+  {
+    "name": "Adam Lallana",
+    "teams": "Liverpool",
+    "minutes": 281,
+    "fifa": 83,
+    "APM": -0.00380502987026496,
+    "AugAPM": 0.107511911907889,
+    "AugAPMSE": 0.101439553363022
+  },
+  {
+    "name": "John Stones",
+    "teams": "Manchester City",
+    "minutes": 1454,
+    "fifa": 79,
+    "APM": 0.100366302983847,
+    "AugAPM": 0.107031765859408,
+    "AugAPMSE": 0.0924732882888577
+  },
+  {
+    "name": "Ayoze Pérez Gutiérrez",
+    "teams": "Newcastle United",
+    "minutes": 2610,
+    "fifa": 74,
+    "APM": 0.112949619282684,
+    "AugAPM": 0.103172702915293,
+    "AugAPMSE": 0.0939098022730925
+  },
+  {
+    "name": "Adrien S. Perruchet Silva",
+    "teams": "Leicester City",
+    "minutes": 802,
+    "fifa": 83,
+    "APM": -0.0254198902511138,
+    "AugAPM": 0.10288058314481,
+    "AugAPMSE": 0.0967701169233961
+  },
+  {
+    "name": "Ashley Williams",
+    "teams": "Everton",
+    "minutes": 1930,
+    "fifa": 82,
+    "APM": -0.039721383063408,
+    "AugAPM": 0.10240328555429,
+    "AugAPMSE": 0.0983710214607229
+  },
+  {
+    "name": "Wayne Rooney",
+    "teams": "Everton",
+    "minutes": 2345,
+    "fifa": 81,
+    "APM": 0.0302902855683166,
+    "AugAPM": 0.100441169748379,
+    "AugAPMSE": 0.0928529883219263
+  },
+  {
+    "name": "Yohan Cabaye",
+    "teams": "Crystal Palace",
+    "minutes": 2474,
+    "fifa": 81,
+    "APM": 0.00844775033281609,
+    "AugAPM": 0.0984506437367925,
+    "AugAPMSE": 0.0934426156843658
+  },
+  {
+    "name": "César Azpilicueta Tanco",
+    "teams": "Chelsea",
+    "minutes": 3507,
+    "fifa": 85,
+    "APM": 0.0697877618443267,
+    "AugAPM": 0.097362670446781,
+    "AugAPMSE": 0.0940385167826556
+  },
+  {
+    "name": "Juan Manuel Mata García",
+    "teams": "Manchester United",
+    "minutes": 1990,
+    "fifa": 84,
+    "APM": 0.00457163747792404,
+    "AugAPM": 0.0969605491211143,
+    "AugAPMSE": 0.093596632142725
+  },
+  {
+    "name": "Aaron Lennon",
+    "teams": "Everton,Burnley",
+    "minutes": 1992,
+    "fifa": 77,
+    "APM": 0.0586623948926424,
+    "AugAPM": 0.0968467921208959,
+    "AugAPMSE": 0.0945836725504946
+  },
+  {
+    "name": "Ander Herrera Agüera",
+    "teams": "Manchester United",
+    "minutes": 1354,
+    "fifa": 84,
+    "APM": -0.0132808757314188,
+    "AugAPM": 0.0952354882331122,
+    "AugAPMSE": 0.0969719055370356
+  },
+  {
+    "name": "Jack Cork",
+    "teams": "Burnley",
+    "minutes": 3606,
+    "fifa": 78,
+    "APM": 0.000874400710611457,
+    "AugAPM": 0.0920373017849769,
+    "AugAPMSE": 0.0936371090297223
+  },
+  {
+    "name": "Héctor Bellerín Moruno",
+    "teams": "Arsenal",
+    "minutes": 3210,
+    "fifa": 81,
+    "APM": 0.0839551197510157,
+    "AugAPM": 0.091995716341814,
+    "AugAPMSE": 0.0943559487217169
+  },
+  {
+    "name": "Benjamin Mendy",
+    "teams": "Manchester City",
+    "minutes": 398,
+    "fifa": 78,
+    "APM": 0.0925157524531951,
+    "AugAPM": 0.091141283066825,
+    "AugAPMSE": 0.0999255743893424
+  },
+  {
+    "name": "Bojan Krkic Perez",
+    "teams": "Stoke City",
+    "minutes": 72,
+    "fifa": 82,
+    "APM": -0.0105809897089556,
+    "AugAPM": 0.0909354207477,
+    "AugAPMSE": 0.0976869808755931
+  },
+  {
+    "name": "Andreas Christensen",
+    "teams": "Chelsea",
+    "minutes": 2099,
+    "fifa": 81,
+    "APM": 0.0925315414142999,
+    "AugAPM": 0.0907029571823116,
+    "AugAPMSE": 0.0946133513829441
+  },
+  {
+    "name": "Gylfi Sigurðsson",
+    "teams": "Everton",
+    "minutes": 2373,
+    "fifa": 82,
+    "APM": -0.0481564944133502,
+    "AugAPM": 0.0904788848525415,
+    "AugAPMSE": 0.092856514915892
+  },
+  {
+    "name": "Sead Kolašinac",
+    "teams": "Arsenal",
+    "minutes": 2251,
+    "fifa": 80,
+    "APM": 0.0880048212531045,
+    "AugAPM": 0.0890762182521917,
+    "AugAPMSE": 0.0904379779891667
+  },
+  {
+    "name": "Danilo Luiz da Silva",
+    "teams": "Manchester City",
+    "minutes": 1446,
+    "fifa": 78,
+    "APM": 0.114268241057091,
+    "AugAPM": 0.0867605974832355,
+    "AugAPMSE": 0.0975356414333758
+  },
+  {
+    "name": "Christian Benteke",
+    "teams": "Crystal Palace",
+    "minutes": 2368,
+    "fifa": 81,
+    "APM": -0.0225647947889698,
+    "AugAPM": 0.084645542291233,
+    "AugAPMSE": 0.0950639045904166
+  },
+  {
+    "name": "Steven Defour",
+    "teams": "Burnley",
+    "minutes": 2070,
+    "fifa": 78,
+    "APM": 0.0323855652832243,
+    "AugAPM": 0.0845518451264948,
+    "AugAPMSE": 0.0944262498027594
+  },
+  {
+    "name": "Marcos Rojo",
+    "teams": "Manchester United",
+    "minutes": 669,
+    "fifa": 82,
+    "APM": 0.000504335584319164,
+    "AugAPM": 0.0835989084093623,
+    "AugAPMSE": 0.0979461134268176
+  },
+  {
+    "name": "Michy Batshuayi",
+    "teams": "Chelsea",
+    "minutes": 396,
+    "fifa": 80,
+    "APM": 0.039947017789836,
+    "AugAPM": 0.082268816844277,
+    "AugAPMSE": 0.0973388922420335
+  },
+  {
+    "name": "Troy Deeney",
+    "teams": "Watford",
+    "minutes": 1955,
+    "fifa": 78,
+    "APM": 0.0750796780837737,
+    "AugAPM": 0.0822200431788614,
+    "AugAPMSE": 0.0920689469458341
+  },
+  {
+    "name": "Ryan Shawcross",
+    "teams": "Stoke City",
+    "minutes": 2505,
+    "fifa": 81,
+    "APM": 0.0146082756620522,
+    "AugAPM": 0.0810417377203168,
+    "AugAPMSE": 0.0942145077931367
+  },
+  {
+    "name": "Nathaniel Clyne",
+    "teams": "Liverpool",
+    "minutes": 185,
+    "fifa": 82,
+    "APM": -0.0299877357303861,
+    "AugAPM": 0.0805207731523125,
+    "AugAPMSE": 0.0999964985642374
+  },
+  {
+    "name": "Jamie Vardy",
+    "teams": "Leicester City",
+    "minutes": 3398,
+    "fifa": 81,
+    "APM": -0.0190880675640916,
+    "AugAPM": 0.080253218148569,
+    "AugAPMSE": 0.096146734872715
+  },
+  {
+    "name": "Jesse Lingard",
+    "teams": "Manchester United",
+    "minutes": 1900,
+    "fifa": 78,
+    "APM": 0.124143888042885,
+    "AugAPM": 0.0798609887033283,
+    "AugAPMSE": 0.0940999153350576
+  },
+  {
+    "name": "Ben Davies",
+    "teams": "Tottenham Hotspur",
+    "minutes": 2457,
+    "fifa": 78,
+    "APM": 0.123525256078767,
+    "AugAPM": 0.0791018139881305,
+    "AugAPMSE": 0.0961906483656848
+  },
+  {
+    "name": "Jamaal Lascelles",
+    "teams": "Newcastle United",
+    "minutes": 3083,
+    "fifa": 73,
+    "APM": 0.0814055175664324,
+    "AugAPM": 0.0783150435003504,
+    "AugAPMSE": 0.0946696270213604
+  },
+  {
+    "name": "Jonjo Shelvey",
+    "teams": "Newcastle United",
+    "minutes": 2387,
+    "fifa": 77,
+    "APM": 0.011360511522405,
+    "AugAPM": 0.0781981893831568,
+    "AugAPMSE": 0.0940176259099087
+  },
+  {
+    "name": "Dušan Tadić",
+    "teams": "Southampton",
+    "minutes": 2879,
+    "fifa": 80,
+    "APM": 0.0166582515676056,
+    "AugAPM": 0.0769864326397718,
+    "AugAPMSE": 0.0937119777627042
+  },
+  {
+    "name": "Ignacio Monreal Eraso",
+    "teams": "Arsenal",
+    "minutes": 2359,
+    "fifa": 80,
+    "APM": 0.0875823622945028,
+    "AugAPM": 0.0767938010871113,
+    "AugAPMSE": 0.0936280930509717
+  },
+  {
+    "name": "Kurt Zouma",
+    "teams": "Stoke City",
+    "minutes": 3055,
+    "fifa": 79,
+    "APM": 0.0529471965751003,
+    "AugAPM": 0.0764757743061591,
+    "AugAPMSE": 0.0933350158677649
+  },
+  {
+    "name": "Chris Wood",
+    "teams": "Burnley",
+    "minutes": 1685,
+    "fifa": 74,
+    "APM": 0.102603103947039,
+    "AugAPM": 0.0764132353206708,
+    "AugAPMSE": 0.0929068890253906
+  },
+  {
+    "name": "Eric Dier",
+    "teams": "Tottenham Hotspur",
+    "minutes": 2979,
+    "fifa": 82,
+    "APM": 0.0343329936747923,
+    "AugAPM": 0.0759121834892185,
+    "AugAPMSE": 0.0930536598883655
+  },
+  {
+    "name": "Arthur Masuaku",
+    "teams": "West Ham United",
+    "minutes": 1978,
+    "fifa": 75,
+    "APM": 0.1235993459008,
+    "AugAPM": 0.0739937781699926,
+    "AugAPMSE": 0.0938512436513963
+  },
+  {
+    "name": "Tiémoué Bakayoko",
+    "teams": "Chelsea",
+    "minutes": 2304,
+    "fifa": 82,
+    "APM": 0.0534760149783717,
+    "AugAPM": 0.073583944196094,
+    "AugAPMSE": 0.0950964226996458
+  },
+  {
+    "name": "Davy Klaassen",
+    "teams": "Everton",
+    "minutes": 270,
+    "fifa": 82,
+    "APM": -0.0252931407129386,
+    "AugAPM": 0.0723593437739153,
+    "AugAPMSE": 0.0984783643368167
+  },
+  {
+    "name": "Olivier Giroud",
+    "teams": "Arsenal,Chelsea",
+    "minutes": 1112,
+    "fifa": 82,
+    "APM": 0.016608394660286,
+    "AugAPM": 0.072357924193225,
+    "AugAPMSE": 0.0954053325470955
+  },
+  {
+    "name": "Phil Jones",
+    "teams": "Manchester United",
+    "minutes": 2074,
+    "fifa": 79,
+    "APM": 0.0799902392138456,
+    "AugAPM": 0.0711145850054598,
+    "AugAPMSE": 0.0907231687668523
+  },
+  {
+    "name": "Lucas Rodrigues M. Silva",
+    "teams": "Tottenham Hotspur",
+    "minutes": 229,
+    "fifa": 82,
+    "APM": -0.0287915169652093,
+    "AugAPM": 0.0700621453666675,
+    "AugAPMSE": 0.0999699459778857
+  },
+  {
+    "name": "José Miguel da Rocha Fonte",
+    "teams": "West Ham United",
+    "minutes": 721,
+    "fifa": 80,
+    "APM": 0.0317700415278253,
+    "AugAPM": 0.0698802261896557,
+    "AugAPMSE": 0.0951454277314042
+  },
+  {
+    "name": "Séamus Coleman",
+    "teams": "Everton",
+    "minutes": 1088,
+    "fifa": 81,
+    "APM": 0.0336440220940875,
+    "AugAPM": 0.0697191653354712,
+    "AugAPMSE": 0.0991126269284134
+  },
+  {
+    "name": "Andrew Robertson",
+    "teams": "Liverpool",
+    "minutes": 2030,
+    "fifa": 75,
+    "APM": 0.132683133602805,
+    "AugAPM": 0.0692224116924604,
+    "AugAPMSE": 0.0971082749159056
+  },
+  {
+    "name": "Victor Wanyama",
+    "teams": "Tottenham Hotspur",
+    "minutes": 921,
+    "fifa": 82,
+    "APM": 0.00934979694850969,
+    "AugAPM": 0.0682282245588589,
+    "AugAPMSE": 0.096316996359446
+  },
+  {
+    "name": "Fabian Delph",
+    "teams": "Manchester City",
+    "minutes": 1825,
+    "fifa": 77,
+    "APM": 0.0935595290993888,
+    "AugAPM": 0.0673656279225744,
+    "AugAPMSE": 0.0922355042861285
+  },
+  {
+    "name": "Chris Smalling",
+    "teams": "Manchester United",
+    "minutes": 2680,
+    "fifa": 81,
+    "APM": 0.0424432710692928,
+    "AugAPM": 0.0664237302255087,
+    "AugAPMSE": 0.0915335009471825
+  },
+  {
+    "name": "Florian Lejeune",
+    "teams": "Newcastle United",
+    "minutes": 2215,
+    "fifa": 79,
+    "APM": -0.0468557931028292,
+    "AugAPM": 0.065664250384553,
+    "AugAPMSE": 0.0939301284303641
+  },
+  {
+    "name": "Michael Carrick",
+    "teams": "Manchester United",
+    "minutes": 114,
+    "fifa": 80,
+    "APM": 0.00264542603951883,
+    "AugAPM": 0.0653548593328188,
+    "AugAPMSE": 0.0980099728394123
+  },
+  {
+    "name": "Nordin Amrabat",
+    "teams": "Watford",
+    "minutes": 209,
+    "fifa": 79,
+    "APM": 0.0206099248346163,
+    "AugAPM": 0.0652063888412775,
+    "AugAPMSE": 0.0969635130343754
+  },
+  {
+    "name": "Pierre-Emile Højbjerg",
+    "teams": "Southampton,Arsenal",
+    "minutes": 2874,
+    "fifa": 75,
+    "APM": 0.0692439683312498,
+    "AugAPM": 0.0645356735609993,
+    "AugAPMSE": 0.0932299260552946
+  },
+  {
+    "name": "Alex Oxlade-Chamberlain",
+    "teams": "Arsenal,Liverpool",
+    "minutes": 1845,
+    "fifa": 80,
+    "APM": 0.00467313872836582,
+    "AugAPM": 0.0644943576518767,
+    "AugAPMSE": 0.0941248252412273
+  },
+  {
+    "name": "Daniel Sturridge",
+    "teams": "Liverpool,West Bromwich Albion",
+    "minutes": 588,
+    "fifa": 82,
+    "APM": -0.0409247451938866,
+    "AugAPM": 0.0642427344079861,
+    "AugAPMSE": 0.0973573401546908
+  },
+  {
+    "name": "Terence Kongolo",
+    "teams": "Huddersfield Town",
+    "minutes": 1109,
+    "fifa": 77,
+    "APM": 0.0385262475484298,
+    "AugAPM": 0.0635410818038695,
+    "AugAPMSE": 0.0970149587396842
+  },
+  {
+    "name": "Ashley Barnes",
+    "teams": "Burnley",
+    "minutes": 2302,
+    "fifa": 74,
+    "APM": 0.076646887040595,
+    "AugAPM": 0.0627845595583058,
+    "AugAPMSE": 0.0924479648363754
+  },
+  {
+    "name": "Sung Yueng Ki",
+    "teams": "Swansea City",
+    "minutes": 1974,
+    "fifa": 78,
+    "APM": 0.00437939895983496,
+    "AugAPM": 0.0627831145241774,
+    "AugAPMSE": 0.0953304819235974
+  },
+  {
+    "name": "Shinji Okazaki",
+    "teams": "Leicester City",
+    "minutes": 1385,
+    "fifa": 77,
+    "APM": 0.0603633968185629,
+    "AugAPM": 0.0623282053650074,
+    "AugAPMSE": 0.09440907145658
+  },
+  {
+    "name": "Matthew Lowton",
+    "teams": "Burnley",
+    "minutes": 2418,
+    "fifa": 76,
+    "APM": 0.0309355767974177,
+    "AugAPM": 0.061291635119899,
+    "AugAPMSE": 0.0935815180209008
+  },
+  {
+    "name": "Matt Phillips",
+    "teams": "West Bromwich Albion",
+    "minutes": 2213,
+    "fifa": 77,
+    "APM": 0.0510057183692413,
+    "AugAPM": 0.0594160530543131,
+    "AugAPMSE": 0.0942125130017106
+  },
+  {
+    "name": "Theo Walcott",
+    "teams": "Arsenal,Everton",
+    "minutes": 1304,
+    "fifa": 80,
+    "APM": 0.0218952253367726,
+    "AugAPM": 0.0591005531996742,
+    "AugAPMSE": 0.0990204697422873
+  },
+  {
+    "name": "Andros Townsend",
+    "teams": "Crystal Palace",
+    "minutes": 3259,
+    "fifa": 78,
+    "APM": -0.0106124307672462,
+    "AugAPM": 0.0575417695155068,
+    "AugAPMSE": 0.0963500802359809
+  },
+  {
+    "name": "Eliaquim Mangala",
+    "teams": "Manchester City,Everton",
+    "minutes": 671,
+    "fifa": 79,
+    "APM": 0.0166665607852442,
+    "AugAPM": 0.0574651827698894,
+    "AugAPMSE": 0.0940541889554387
+  },
+  {
+    "name": "Allan Nyom",
+    "teams": "West Bromwich Albion",
+    "minutes": 2454,
+    "fifa": 77,
+    "APM": 0.0302759535294645,
+    "AugAPM": 0.0568300884870104,
+    "AugAPMSE": 0.0937876582662307
+  },
+  {
+    "name": "Morgan Schneiderlin",
+    "teams": "Everton",
+    "minutes": 2259,
+    "fifa": 83,
+    "APM": -0.081409861936304,
+    "AugAPM": 0.0567844614618301,
+    "AugAPMSE": 0.0932371193909257
+  },
+  {
+    "name": "Roberto Pereyra",
+    "teams": "Watford",
+    "minutes": 1730,
+    "fifa": 80,
+    "APM": -0.00309333450269756,
+    "AugAPM": 0.056177134473899,
+    "AugAPMSE": 0.0953696027671887
+  },
+  {
+    "name": "Angelo Ogbonna",
+    "teams": "West Ham United",
+    "minutes": 3044,
+    "fifa": 80,
+    "APM": -0.0189050313579263,
+    "AugAPM": 0.0550511810214342,
+    "AugAPMSE": 0.0961025935660884
+  },
+  {
+    "name": "Erik Lamela",
+    "teams": "Tottenham Hotspur",
+    "minutes": 922,
+    "fifa": 80,
+    "APM": 0.0223671737024833,
+    "AugAPM": 0.0542044035476417,
+    "AugAPMSE": 0.100175167328408
+  },
+  {
+    "name": "Charlie Austin",
+    "teams": "Southampton",
+    "minutes": 1119,
+    "fifa": 78,
+    "APM": 0.0349289905963104,
+    "AugAPM": 0.0541301109235031,
+    "AugAPMSE": 0.0958193020861218
+  },
+  {
+    "name": "Gary Cahill",
+    "teams": "Chelsea",
+    "minutes": 2202,
+    "fifa": 84,
+    "APM": -0.00937947406488291,
+    "AugAPM": 0.0532627641117587,
+    "AugAPMSE": 0.0949031167762027
+  },
+  {
+    "name": "Marko Arnautović",
+    "teams": "West Ham United",
+    "minutes": 2406,
+    "fifa": 82,
+    "APM": -0.0557428309855004,
+    "AugAPM": 0.053182958308549,
+    "AugAPMSE": 0.0918861975881724
+  },
+  {
+    "name": "Matt Ritchie",
+    "teams": "Newcastle United",
+    "minutes": 2929,
+    "fifa": 75,
+    "APM": 0.0174069606925125,
+    "AugAPM": 0.0531329862453217,
+    "AugAPMSE": 0.0948347456583642
+  },
+  {
+    "name": "Javier Hernández",
+    "teams": "West Ham United",
+    "minutes": 1649,
+    "fifa": 82,
+    "APM": -0.0485927575953111,
+    "AugAPM": 0.0527439395344147,
+    "AugAPMSE": 0.0969181541875977
+  },
+  {
+    "name": "Mohamed Diamé",
+    "teams": "Newcastle United",
+    "minutes": 2151,
+    "fifa": 73,
+    "APM": 0.0716198094418352,
+    "AugAPM": 0.0526856539901593,
+    "AugAPMSE": 0.0955572479641665
+  },
+  {
+    "name": "Patrice Evra",
+    "teams": "West Ham United",
+    "minutes": 243,
+    "fifa": 81,
+    "APM": -0.0510824423968654,
+    "AugAPM": 0.0509290699392459,
+    "AugAPMSE": 0.101439967357624
+  },
+  {
+    "name": "Matteo Darmian",
+    "teams": "Manchester United",
+    "minutes": 477,
+    "fifa": 80,
+    "APM": -0.0154122722827162,
+    "AugAPM": 0.0508144280213914,
+    "AugAPMSE": 0.100360049126081
+  },
+  {
+    "name": "Danny Drinkwater",
+    "teams": "Chelsea",
+    "minutes": 564,
+    "fifa": 79,
+    "APM": 0.0155897531371052,
+    "AugAPM": 0.0500339261069432,
+    "AugAPMSE": 0.0989267414138287
+  },
+  {
+    "name": "Marvin Zeegelaar",
+    "teams": "Watford",
+    "minutes": 1049,
+    "fifa": 75,
+    "APM": 0.0742618448089197,
+    "AugAPM": 0.0482876950890601,
+    "AugAPMSE": 0.0957926922302016
+  },
+  {
+    "name": "Onyinye Ndidi",
+    "teams": "Leicester City",
+    "minutes": 3097,
+    "fifa": 77,
+    "APM": 0.0380298771471032,
+    "AugAPM": 0.0474722267688933,
+    "AugAPMSE": 0.0932562893042476
+  },
+  {
+    "name": "Per Mertesacker",
+    "teams": "Arsenal",
+    "minutes": 386,
+    "fifa": 81,
+    "APM": -0.0299246997426648,
+    "AugAPM": 0.047124164635886,
+    "AugAPMSE": 0.10367050797078
+  },
+  {
+    "name": "Andy Carroll",
+    "teams": "West Ham United",
+    "minutes": 879,
+    "fifa": 78,
+    "APM": 0.0447691516058806,
+    "AugAPM": 0.0471150196021318,
+    "AugAPMSE": 0.0942445267354898
+  },
+  {
+    "name": "Christian Fuchs",
+    "teams": "Leicester City",
+    "minutes": 2047,
+    "fifa": 76,
+    "APM": 0.0464177427709271,
+    "AugAPM": 0.0451726227638603,
+    "AugAPMSE": 0.0951227078760423
+  },
+  {
+    "name": "Ryan Bertrand",
+    "teams": "Southampton",
+    "minutes": 3307,
+    "fifa": 80,
+    "APM": -0.0292022302644075,
+    "AugAPM": 0.0449991487672216,
+    "AugAPMSE": 0.0954748477196347
+  },
+  {
+    "name": "Robbie Brady",
+    "teams": "Burnley",
+    "minutes": 1342,
+    "fifa": 76,
+    "APM": 0.0361692677098048,
+    "AugAPM": 0.0444858455654526,
+    "AugAPMSE": 0.0956406763691758
+  },
+  {
+    "name": "Manuel Lanzini",
+    "teams": "West Ham United",
+    "minutes": 2143,
+    "fifa": 81,
+    "APM": -0.0307049942130169,
+    "AugAPM": 0.0433403812941846,
+    "AugAPMSE": 0.0930397974000775
+  },
+  {
+    "name": "Leon Britton",
+    "teams": "Swansea City",
+    "minutes": 305,
+    "fifa": 77,
+    "APM": 0.033148212448624,
+    "AugAPM": 0.0427981199411816,
+    "AugAPMSE": 0.102543575569915
+  },
+  {
+    "name": "James Milner",
+    "teams": "Liverpool",
+    "minutes": 1907,
+    "fifa": 80,
+    "APM": -0.0300377260093923,
+    "AugAPM": 0.0413459225422897,
+    "AugAPMSE": 0.0920925676221395
+  },
+  {
+    "name": "Sofiane Boufal",
+    "teams": "Southampton",
+    "minutes": 1304,
+    "fifa": 79,
+    "APM": -0.0162671957111878,
+    "AugAPM": 0.039921298791828,
+    "AugAPMSE": 0.0928206965681085
+  },
+  {
+    "name": "Marcos Alonso Mendoza",
+    "teams": "Chelsea",
+    "minutes": 2995,
+    "fifa": 81,
+    "APM": 0.0421425009228062,
+    "AugAPM": 0.0399014237984771,
+    "AugAPMSE": 0.0952400966625292
+  },
+  {
+    "name": "Tom Davies",
+    "teams": "Everton",
+    "minutes": 2015,
+    "fifa": 73,
+    "APM": 0.10914646143465,
+    "AugAPM": 0.0397709426891552,
+    "AugAPMSE": 0.0940758233646388
+  },
+  {
+    "name": "Tom Cleverley",
+    "teams": "Watford",
+    "minutes": 2024,
+    "fifa": 76,
+    "APM": 0.0406089390118482,
+    "AugAPM": 0.0396225511136187,
+    "AugAPMSE": 0.0932863413628727
+  },
+  {
+    "name": "Nacer Chadli",
+    "teams": "West Bromwich Albion",
+    "minutes": 225,
+    "fifa": 78,
+    "APM": 0.00526193169668594,
+    "AugAPM": 0.0395783668769093,
+    "AugAPMSE": 0.0961683397523796
+  },
+  {
+    "name": "Grzegorz Krychowiak",
+    "teams": "West Bromwich Albion",
+    "minutes": 1739,
+    "fifa": 81,
+    "APM": -0.0538257235546052,
+    "AugAPM": 0.0392867432422597,
+    "AugAPMSE": 0.0949114311885923
+  },
+  {
+    "name": "Xherdan Shaqiri",
+    "teams": "Stoke City",
+    "minutes": 3175,
+    "fifa": 82,
+    "APM": -0.0782041044389128,
+    "AugAPM": 0.0391625987194273,
+    "AugAPMSE": 0.0914073667544848
+  },
+  {
+    "name": "Stephen Ward",
+    "teams": "Burnley",
+    "minutes": 2587,
+    "fifa": 75,
+    "APM": 0.0155377895094447,
+    "AugAPM": 0.0388381786887814,
+    "AugAPMSE": 0.0925794287738882
+  },
+  {
+    "name": "Danny Rose",
+    "teams": "Tottenham Hotspur",
+    "minutes": 844,
+    "fifa": 82,
+    "APM": -0.0556957704525282,
+    "AugAPM": 0.0383799904837121,
+    "AugAPMSE": 0.095725040297486
+  },
+  {
+    "name": "Gareth Barry",
+    "teams": "West Bromwich Albion",
+    "minutes": 2033,
+    "fifa": 80,
+    "APM": -0.0452615506053987,
+    "AugAPM": 0.0376159948600716,
+    "AugAPMSE": 0.0950381677224084
+  },
+  {
+    "name": "Luke Shaw",
+    "teams": "Manchester United",
+    "minutes": 832,
+    "fifa": 79,
+    "APM": 0.017785464568414,
+    "AugAPM": 0.0375548210863874,
+    "AugAPMSE": 0.0974871345298231
+  },
+  {
+    "name": "Wesley Hoedt",
+    "teams": "Southampton",
+    "minutes": 2666,
+    "fifa": 77,
+    "APM": 0.00545677107937897,
+    "AugAPM": 0.0369636340653188,
+    "AugAPMSE": 0.0951649698125906
+  },
+  {
+    "name": "Papa Alioune Ndiaye",
+    "teams": "Stoke City",
+    "minutes": 1196,
+    "fifa": 77,
+    "APM": 0.0254174755725862,
+    "AugAPM": 0.0368563745317954,
+    "AugAPMSE": 0.0990537386053844
+  },
+  {
+    "name": "Ross Barkley",
+    "teams": "Chelsea",
+    "minutes": 131,
+    "fifa": 81,
+    "APM": -0.0626301163079771,
+    "AugAPM": 0.0358365137585627,
+    "AugAPMSE": 0.0998406346774166
+  },
+  {
+    "name": "Henri Saivet",
+    "teams": "Newcastle United",
+    "minutes": 84,
+    "fifa": 77,
+    "APM": 0.019561723819547,
+    "AugAPM": 0.0355627560734476,
+    "AugAPMSE": 0.0983185886053685
+  },
+  {
+    "name": "Anthony Knockaert",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 2528,
+    "fifa": 76,
+    "APM": 0.0215157780728389,
+    "AugAPM": 0.0338130369892867,
+    "AugAPMSE": 0.093237837538436
+  },
+  {
+    "name": "Pablo Zabaleta",
+    "teams": "West Ham United",
+    "minutes": 3466,
+    "fifa": 79,
+    "APM": -0.0114302514893911,
+    "AugAPM": 0.0332916728921282,
+    "AugAPMSE": 0.0956429837443349
+  },
+  {
+    "name": "Jonny Evans",
+    "teams": "West Bromwich Albion",
+    "minutes": 2398,
+    "fifa": 79,
+    "APM": -0.0227906847587609,
+    "AugAPM": 0.0329298033700429,
+    "AugAPMSE": 0.0928640886155598
+  },
+  {
+    "name": "James McCarthy",
+    "teams": "Everton",
+    "minutes": 210,
+    "fifa": 80,
+    "APM": -0.0637462187973489,
+    "AugAPM": 0.0328171165584057,
+    "AugAPMSE": 0.100050848222614
+  },
+  {
+    "name": "Wilfried Bony",
+    "teams": "Swansea City",
+    "minutes": 766,
+    "fifa": 79,
+    "APM": -0.0299474503102506,
+    "AugAPM": 0.0318079358983288,
+    "AugAPMSE": 0.0971117505099784
+  },
+  {
+    "name": "Calum Chambers",
+    "teams": "Arsenal",
+    "minutes": 905,
+    "fifa": 75,
+    "APM": 0.0580337371785122,
+    "AugAPM": 0.0313804698069084,
+    "AugAPMSE": 0.0938987822272533
+  },
+  {
+    "name": "Roque Mesa Quevedo",
+    "teams": "Swansea City",
+    "minutes": 787,
+    "fifa": 82,
+    "APM": -0.0931846854533842,
+    "AugAPM": 0.0311493154159509,
+    "AugAPMSE": 0.0992323926041945
+  },
+  {
+    "name": "Patrick van Aanholt",
+    "teams": "Crystal Palace",
+    "minutes": 2302,
+    "fifa": 75,
+    "APM": 0.0307188141218217,
+    "AugAPM": 0.0305579386955293,
+    "AugAPMSE": 0.0903289255553262
+  },
+  {
+    "name": "Leighton Baines",
+    "teams": "Everton",
+    "minutes": 2021,
+    "fifa": 82,
+    "APM": -0.0728928245407754,
+    "AugAPM": 0.0302367078357082,
+    "AugAPMSE": 0.0941897126553248
+  },
+  {
+    "name": "Manolo Gabbiadini",
+    "teams": "Southampton",
+    "minutes": 1171,
+    "fifa": 79,
+    "APM": -0.0150845972038945,
+    "AugAPM": 0.0299254174737942,
+    "AugAPMSE": 0.0990264081624619
+  },
+  {
+    "name": "Mark Noble",
+    "teams": "West Ham United",
+    "minutes": 2526,
+    "fifa": 77,
+    "APM": 0.00760316071762284,
+    "AugAPM": 0.0293469149398081,
+    "AugAPMSE": 0.0928026394597996
+  },
+  {
+    "name": "DeAndre Yedlin",
+    "teams": "Newcastle United",
+    "minutes": 3004,
+    "fifa": 73,
+    "APM": 0.0169358465062984,
+    "AugAPM": 0.029071878578309,
+    "AugAPMSE": 0.0909564138552306
+  },
+  {
+    "name": "Kevin Mirallas",
+    "teams": "Everton",
+    "minutes": 151,
+    "fifa": 81,
+    "APM": -0.0819615755762749,
+    "AugAPM": 0.0289972499549997,
+    "AugAPMSE": 0.0993271315121291
+  },
+  {
+    "name": "Ragnar Klavan",
+    "teams": "Liverpool",
+    "minutes": 1541,
+    "fifa": 78,
+    "APM": -0.00924614525237932,
+    "AugAPM": 0.0287045692302407,
+    "AugAPMSE": 0.096212377349732
+  },
+  {
+    "name": "Luka Milivojević",
+    "teams": "Crystal Palace",
+    "minutes": 3242,
+    "fifa": 77,
+    "APM": -0.0358470388701416,
+    "AugAPM": 0.0275507408281416,
+    "AugAPMSE": 0.0967813329227067
+  },
+  {
+    "name": "Eric Maxim Choupo-Moting",
+    "teams": "Stoke City",
+    "minutes": 2354,
+    "fifa": 77,
+    "APM": 0.0195714353582014,
+    "AugAPM": 0.0273845204100641,
+    "AugAPMSE": 0.0937199501149862
+  },
+  {
+    "name": "Fernando Javier Llorente Torres",
+    "teams": "Tottenham Hotspur",
+    "minutes": 300,
+    "fifa": 78,
+    "APM": -0.00537395909832256,
+    "AugAPM": 0.0268307268464781,
+    "AugAPMSE": 0.0976023602185211
+  },
+  {
+    "name": "José Luis Sanmartín Mato",
+    "teams": "Newcastle United",
+    "minutes": 1786,
+    "fifa": 75,
+    "APM": 0.00822816840241191,
+    "AugAPM": 0.0266167649612581,
+    "AugAPMSE": 0.0920248263044637
+  },
+  {
+    "name": "Divock Origi",
+    "teams": "Liverpool",
+    "minutes": 18,
+    "fifa": 78,
+    "APM": -0.0176004302546148,
+    "AugAPM": 0.0256934138543004,
+    "AugAPMSE": 0.0970637155807731
+  },
+  {
+    "name": "Victor Moses",
+    "teams": "Chelsea",
+    "minutes": 2196,
+    "fifa": 77,
+    "APM": 0.0827780772300838,
+    "AugAPM": 0.0254758312169249,
+    "AugAPMSE": 0.0948103099311944
+  },
+  {
+    "name": "Jermain Defoe",
+    "teams": "AFC Bournemouth",
+    "minutes": 1186,
+    "fifa": 80,
+    "APM": -0.0545703583493474,
+    "AugAPM": 0.0247854479571059,
+    "AugAPMSE": 0.0959101277197995
+  },
+  {
+    "name": "Danny Ings",
+    "teams": "Liverpool",
+    "minutes": 285,
+    "fifa": 77,
+    "APM": 0.0043426199226602,
+    "AugAPM": 0.0216963089211176,
+    "AugAPMSE": 0.0973444055072557
+  },
+  {
+    "name": "Vincent Janssen",
+    "teams": "Tottenham Hotspur",
+    "minutes": 5,
+    "fifa": 77,
+    "APM": -0.000261074372655361,
+    "AugAPM": 0.0215126993026192,
+    "AugAPMSE": 0.103070004190701
+  },
+  {
+    "name": "James Collins",
+    "teams": "West Ham United",
+    "minutes": 1103,
+    "fifa": 76,
+    "APM": 0.0391131292328717,
+    "AugAPM": 0.0208560108284541,
+    "AugAPMSE": 0.0976338801755548
+  },
+  {
+    "name": "Victor Lindelöf",
+    "teams": "Manchester United",
+    "minutes": 1366,
+    "fifa": 79,
+    "APM": 0.00616899090235296,
+    "AugAPM": 0.0192637513262927,
+    "AugAPMSE": 0.0942435778219137
+  },
+  {
+    "name": "Cédric Ricardo Alves Soares",
+    "teams": "Southampton",
+    "minutes": 2946,
+    "fifa": 79,
+    "APM": -0.0334811706246352,
+    "AugAPM": 0.0191926537941946,
+    "AugAPMSE": 0.0964914690435747
+  },
+  {
+    "name": "Aleksandar Mitrović",
+    "teams": "Newcastle United",
+    "minutes": 118,
+    "fifa": 75,
+    "APM": 0.0464427878541584,
+    "AugAPM": 0.0190942087159751,
+    "AugAPMSE": 0.0993534167140322
+  },
+  {
+    "name": "Chris Brunt",
+    "teams": "West Bromwich Albion",
+    "minutes": 2024,
+    "fifa": 75,
+    "APM": 0.0342541992751728,
+    "AugAPM": 0.0187924676601545,
+    "AugAPMSE": 0.0931251201950416
+  },
+  {
+    "name": "Mike van der Hoorn",
+    "teams": "Swansea City",
+    "minutes": 2020,
+    "fifa": 73,
+    "APM": 0.0563840805606441,
+    "AugAPM": 0.0181850892367682,
+    "AugAPMSE": 0.0939881472958909
+  },
+  {
+    "name": "Salomón Rondón",
+    "teams": "West Bromwich Albion",
+    "minutes": 2921,
+    "fifa": 80,
+    "APM": -0.0771550689881625,
+    "AugAPM": 0.0171548107678191,
+    "AugAPMSE": 0.0928996223346983
+  },
+  {
+    "name": "Ramiro Funes Mori",
+    "teams": "Everton",
+    "minutes": 135,
+    "fifa": 77,
+    "APM": 0.0031934810364161,
+    "AugAPM": 0.0171429788673902,
+    "AugAPMSE": 0.0972047823151775
+  },
+  {
+    "name": "James Tarkowski",
+    "teams": "Burnley",
+    "minutes": 2944,
+    "fifa": 73,
+    "APM": 0.0240672346033062,
+    "AugAPM": 0.0168403099922471,
+    "AugAPMSE": 0.0931818982189323
+  },
+  {
+    "name": "James McArthur",
+    "teams": "Crystal Palace",
+    "minutes": 2549,
+    "fifa": 75,
+    "APM": 0.00542115050731968,
+    "AugAPM": 0.0167566951786177,
+    "AugAPMSE": 0.0938207890221469
+  },
+  {
+    "name": "Aaron Mooy",
+    "teams": "Huddersfield Town",
+    "minutes": 3217,
+    "fifa": 77,
+    "APM": -0.077327748302623,
+    "AugAPM": 0.0165617151268346,
+    "AugAPMSE": 0.0940623524344335
+  },
+  {
+    "name": "Jesús Gámez Duarte",
+    "teams": "Newcastle United",
+    "minutes": 107,
+    "fifa": 76,
+    "APM": 0.0139049027604888,
+    "AugAPM": 0.0160299562753443,
+    "AugAPMSE": 0.0977695869150523
+  },
+  {
+    "name": "Oriol Romeu Vidal",
+    "teams": "Southampton",
+    "minutes": 3047,
+    "fifa": 79,
+    "APM": -0.067436386826706,
+    "AugAPM": 0.0156230538163685,
+    "AugAPMSE": 0.097069245974995
+  },
+  {
+    "name": "Paul Dummett",
+    "teams": "Newcastle United",
+    "minutes": 1689,
+    "fifa": 71,
+    "APM": 0.0590220275813106,
+    "AugAPM": 0.0148671627351478,
+    "AugAPMSE": 0.0969979945561559
+  },
+  {
+    "name": "Aleksandar Dragović",
+    "teams": "Leicester City",
+    "minutes": 813,
+    "fifa": 77,
+    "APM": -0.0219076330684932,
+    "AugAPM": 0.0146800764814443,
+    "AugAPMSE": 0.0977205007837967
+  },
+  {
+    "name": "Jose Holebas",
+    "teams": "Watford",
+    "minutes": 2534,
+    "fifa": 78,
+    "APM": -0.030525840324128,
+    "AugAPM": 0.0145988199039331,
+    "AugAPMSE": 0.0929722673186391
+  },
+  {
+    "name": "Abdoulaye Doucouré",
+    "teams": "Watford",
+    "minutes": 3524,
+    "fifa": 78,
+    "APM": -0.0431315691983195,
+    "AugAPM": 0.0145716682925311,
+    "AugAPMSE": 0.0942187130933831
+  },
+  {
+    "name": "Michail Antonio",
+    "teams": "West Ham United",
+    "minutes": 1420,
+    "fifa": 80,
+    "APM": -0.0506029053511216,
+    "AugAPM": 0.0142839110094453,
+    "AugAPMSE": 0.0979530451185058
+  },
+  {
+    "name": "Claudio Yacob",
+    "teams": "West Bromwich Albion",
+    "minutes": 965,
+    "fifa": 79,
+    "APM": -0.0663950768419377,
+    "AugAPM": 0.0137875416793987,
+    "AugAPMSE": 0.0971948258465886
+  },
+  {
+    "name": "Jay Rodriguez",
+    "teams": "West Bromwich Albion",
+    "minutes": 2923,
+    "fifa": 76,
+    "APM": -0.00267337165264482,
+    "AugAPM": 0.0136221507912793,
+    "AugAPMSE": 0.0917300705012976
+  },
+  {
+    "name": "Francis Coquelin",
+    "teams": "Arsenal",
+    "minutes": 194,
+    "fifa": 79,
+    "APM": -0.0505356776847768,
+    "AugAPM": 0.0128443288607467,
+    "AugAPMSE": 0.099758836732307
+  },
+  {
+    "name": "Jordan Ayew",
+    "teams": "Swansea City",
+    "minutes": 2974,
+    "fifa": 76,
+    "APM": -0.0404198792613514,
+    "AugAPM": 0.0115815663443857,
+    "AugAPMSE": 0.0945512430400175
+  },
+  {
+    "name": "Charly Musonda",
+    "teams": "Chelsea",
+    "minutes": 49,
+    "fifa": 76,
+    "APM": 0.01139067653632,
+    "AugAPM": 0.0115316498182468,
+    "AugAPMSE": 0.0988934244937381
+  },
+  {
+    "name": "Muhamed Bešić",
+    "teams": "Everton",
+    "minutes": 54,
+    "fifa": 76,
+    "APM": 0.0111825662719637,
+    "AugAPM": 0.0106818118815125,
+    "AugAPMSE": 0.0980599307841348
+  },
+  {
+    "name": "Mame Diouf",
+    "teams": "Stoke City",
+    "minutes": 2721,
+    "fifa": 77,
+    "APM": -0.0098145559691248,
+    "AugAPM": 0.0106379257623001,
+    "AugAPMSE": 0.0959557690898065
+  },
+  {
+    "name": "James Morrison",
+    "teams": "West Bromwich Albion",
+    "minutes": 222,
+    "fifa": 76,
+    "APM": 0.00767539075513485,
+    "AugAPM": 0.0104309722217183,
+    "AugAPMSE": 0.0986375347106711
+  },
+  {
+    "name": "Younès Kaboul",
+    "teams": "Watford",
+    "minutes": 160,
+    "fifa": 75,
+    "APM": 0.0311321318505851,
+    "AugAPM": 0.0103071575938876,
+    "AugAPMSE": 0.10050033555868
+  },
+  {
+    "name": "Georges-Kévin Nkoudou",
+    "teams": "Tottenham Hotspur,Burnley",
+    "minutes": 260,
+    "fifa": 77,
+    "APM": -0.018764137275447,
+    "AugAPM": 0.0101824414324271,
+    "AugAPMSE": 0.0991227653124982
+  },
+  {
+    "name": "Kieran Gibbs",
+    "teams": "West Bromwich Albion",
+    "minutes": 2978,
+    "fifa": 78,
+    "APM": -0.0462025571844925,
+    "AugAPM": 0.00970156452829787,
+    "AugAPMSE": 0.0921885132077131
+  },
+  {
+    "name": "Daniel Amartey",
+    "teams": "Leicester City",
+    "minutes": 535,
+    "fifa": 75,
+    "APM": 0.030100953257326,
+    "AugAPM": 0.00970061340060691,
+    "AugAPMSE": 0.0980861899073476
+  },
+  {
+    "name": "Miguel Angel Britos",
+    "teams": "Watford",
+    "minutes": 864,
+    "fifa": 75,
+    "APM": 0.0176110451147331,
+    "AugAPM": 0.00944704862175515,
+    "AugAPMSE": 0.0973343798176327
+  },
+  {
+    "name": "Yannick Bolasie",
+    "teams": "Everton",
+    "minutes": 887,
+    "fifa": 78,
+    "APM": -0.0312557972476002,
+    "AugAPM": 0.00936079067957897,
+    "AugAPMSE": 0.0931413247782803
+  },
+  {
+    "name": "Phil Jagielka",
+    "teams": "Everton",
+    "minutes": 2182,
+    "fifa": 80,
+    "APM": -0.0674775969789113,
+    "AugAPM": 0.00911759494531089,
+    "AugAPMSE": 0.0960843616096564
+  },
+  {
+    "name": "Kieran Trippier",
+    "teams": "Tottenham Hotspur",
+    "minutes": 2030,
+    "fifa": 78,
+    "APM": -0.00743423797986333,
+    "AugAPM": 0.00888875520890293,
+    "AugAPMSE": 0.095341512341193
+  },
+  {
+    "name": "Mohamed Elneny",
+    "teams": "Arsenal",
+    "minutes": 903,
+    "fifa": 77,
+    "APM": -0.00942700142938082,
+    "AugAPM": 0.00811293653410358,
+    "AugAPMSE": 0.0958500711670079
+  },
+  {
+    "name": "Sam Vokes",
+    "teams": "Burnley",
+    "minutes": 1116,
+    "fifa": 76,
+    "APM": -0.0104626328757126,
+    "AugAPM": 0.0080781882214138,
+    "AugAPMSE": 0.0959582607151894
+  },
+  {
+    "name": "Jake Livermore",
+    "teams": "West Bromwich Albion",
+    "minutes": 2832,
+    "fifa": 75,
+    "APM": 0.00297439501237502,
+    "AugAPM": 0.00787331017932302,
+    "AugAPMSE": 0.0945262372462817
+  },
+  {
+    "name": "Kevin Wimmer",
+    "teams": "Stoke City",
+    "minutes": 1401,
+    "fifa": 78,
+    "APM": -0.0447311998735707,
+    "AugAPM": 0.00725803526210537,
+    "AugAPMSE": 0.0944976981563284
+  },
+  {
+    "name": "Harry Arter",
+    "teams": "AFC Bournemouth",
+    "minutes": 1017,
+    "fifa": 76,
+    "APM": 0.0127902164033964,
+    "AugAPM": 0.00705454972530006,
+    "AugAPMSE": 0.0989482052700992
+  },
+  {
+    "name": "Nathaniel Chalobah",
+    "teams": "Watford",
+    "minutes": 470,
+    "fifa": 75,
+    "APM": 0.0247459971922329,
+    "AugAPM": 0.00643063188121111,
+    "AugAPMSE": 0.0987485909033926
+  },
+  {
+    "name": "Andre Gray",
+    "teams": "Watford",
+    "minutes": 1607,
+    "fifa": 77,
+    "APM": -0.024957217956293,
+    "AugAPM": 0.00617731315070057,
+    "AugAPMSE": 0.0984973975334532
+  },
+  {
+    "name": "Stefano Okaka",
+    "teams": "Watford",
+    "minutes": 510,
+    "fifa": 77,
+    "APM": -0.0188845246841238,
+    "AugAPM": 0.00608955291228671,
+    "AugAPMSE": 0.0971177483582088
+  },
+  {
+    "name": "Oumar Niasse",
+    "teams": "Everton",
+    "minutes": 1172,
+    "fifa": 75,
+    "APM": 0.0233464831054652,
+    "AugAPM": 0.00603185209990654,
+    "AugAPMSE": 0.0949614688460382
+  },
+  {
+    "name": "André Ayew",
+    "teams": "West Ham United,Swansea City",
+    "minutes": 1950,
+    "fifa": 80,
+    "APM": -0.0900404930278412,
+    "AugAPM": 0.0052851212925128,
+    "AugAPMSE": 0.0932126554984639
+  },
+  {
+    "name": "Alex Iwobi",
+    "teams": "Arsenal",
+    "minutes": 1886,
+    "fifa": 74,
+    "APM": 0.0532529271606814,
+    "AugAPM": 0.00469580170357941,
+    "AugAPMSE": 0.0922513522199909
+  },
+  {
+    "name": "Ciaran Clark",
+    "teams": "Newcastle United",
+    "minutes": 1839,
+    "fifa": 76,
+    "APM": -0.0444329926076249,
+    "AugAPM": 0.00448166696890957,
+    "AugAPMSE": 0.0968232113874387
+  },
+  {
+    "name": "Marcus Rashford",
+    "teams": "Manchester United",
+    "minutes": 1928,
+    "fifa": 79,
+    "APM": -0.0187906508688874,
+    "AugAPM": 0.00430255992665846,
+    "AugAPMSE": 0.0951643558350539
+  },
+  {
+    "name": "Chancel Mbemba",
+    "teams": "Newcastle United",
+    "minutes": 706,
+    "fifa": 76,
+    "APM": -0.0249977815665881,
+    "AugAPM": 0.00393523005373993,
+    "AugAPMSE": 0.0953588221298939
+  },
+  {
+    "name": "Christian Atsu",
+    "teams": "Newcastle United",
+    "minutes": 1884,
+    "fifa": 75,
+    "APM": -0.0240121392608378,
+    "AugAPM": 0.00294885961710342,
+    "AugAPMSE": 0.0938866051110157
+  },
+  {
+    "name": "Will Hughes",
+    "teams": "Watford",
+    "minutes": 1025,
+    "fifa": 75,
+    "APM": 0.0239732506124149,
+    "AugAPM": 0.0028026354315181,
+    "AugAPMSE": 0.0960661395111967
+  },
+  {
+    "name": "Wes Morgan",
+    "teams": "Leicester City",
+    "minutes": 2985,
+    "fifa": 77,
+    "APM": -0.0268245971919326,
+    "AugAPM": 0.00235329113426059,
+    "AugAPMSE": 0.0950749000621882
+  },
+  {
+    "name": "Mathias Jørgensen",
+    "teams": "Huddersfield Town",
+    "minutes": 3598,
+    "fifa": 75,
+    "APM": -0.0700676491331291,
+    "AugAPM": 0.0017727744122423,
+    "AugAPMSE": 0.0936382218778708
+  },
+  {
+    "name": "Nathan Dyer",
+    "teams": "Swansea City",
+    "minutes": 1370,
+    "fifa": 75,
+    "APM": 0.00531328561570204,
+    "AugAPM": 0.000442921576262598,
+    "AugAPMSE": 0.0969334740920267
+  },
+  {
+    "name": "Michael Keane",
+    "teams": "Everton",
+    "minutes": 2705,
+    "fifa": 81,
+    "APM": -0.0983661380133912,
+    "AugAPM": 0.000372098085357967,
+    "AugAPMSE": 0.097396643073721
+  },
+  {
+    "name": "Tom Ince",
+    "teams": "Huddersfield Town",
+    "minutes": 2558,
+    "fifa": 74,
+    "APM": -0.0116620830299003,
+    "AugAPM": -0.00066995399918099,
+    "AugAPMSE": 0.0958105280156931
+  },
+  {
+    "name": "Martin Olsson",
+    "teams": "Swansea City",
+    "minutes": 3303,
+    "fifa": 75,
+    "APM": -0.0285363052993249,
+    "AugAPM": -0.00211660892693555,
+    "AugAPMSE": 0.0911161527267288
+  },
+  {
+    "name": "Kyle Naughton",
+    "teams": "Swansea City",
+    "minutes": 3185,
+    "fifa": 75,
+    "APM": -0.0318124665872231,
+    "AugAPM": -0.0023853523400254,
+    "AugAPMSE": 0.0932996770790695
+  },
+  {
+    "name": "Cenk Tosun",
+    "teams": "Everton",
+    "minutes": 1023,
+    "fifa": 78,
+    "APM": -0.0296267610433526,
+    "AugAPM": -0.00296527968822008,
+    "AugAPMSE": 0.0962278957888725
+  },
+  {
+    "name": "Jonathan Hogg",
+    "teams": "Huddersfield Town",
+    "minutes": 2526,
+    "fifa": 74,
+    "APM": -0.0246512339763351,
+    "AugAPM": -0.00307050648614266,
+    "AugAPMSE": 0.0929822188772796
+  },
+  {
+    "name": "Maya Yoshida",
+    "teams": "Southampton",
+    "minutes": 2176,
+    "fifa": 75,
+    "APM": -0.00423435423983475,
+    "AugAPM": -0.00390215497816427,
+    "AugAPMSE": 0.0953424388704608
+  },
+  {
+    "name": "Pedro Mba Obiang Avomo",
+    "teams": "West Ham United",
+    "minutes": 1651,
+    "fifa": 77,
+    "APM": -0.0205784833586986,
+    "AugAPM": -0.00400766257923598,
+    "AugAPMSE": 0.0900638537415186
+  },
+  {
+    "name": "Alberto Moreno Pérez",
+    "teams": "Liverpool",
+    "minutes": 1345,
+    "fifa": 76,
+    "APM": -0.0175013802533096,
+    "AugAPM": -0.00461404945710309,
+    "AugAPMSE": 0.094389878278071
+  },
+  {
+    "name": "Shane Long",
+    "teams": "Southampton",
+    "minutes": 1681,
+    "fifa": 76,
+    "APM": -0.0238206938479234,
+    "AugAPM": -0.00524294601223471,
+    "AugAPMSE": 0.0930944078679763
+  },
+  {
+    "name": "Davide Zappacosta",
+    "teams": "Chelsea",
+    "minutes": 1167,
+    "fifa": 79,
+    "APM": -0.0301321333430726,
+    "AugAPM": -0.00532223160286799,
+    "AugAPMSE": 0.0965296559009597
+  },
+  {
+    "name": "Javier Manquillo Gaitán",
+    "teams": "Newcastle United",
+    "minutes": 1851,
+    "fifa": 76,
+    "APM": -0.0606292104580651,
+    "AugAPM": -0.00610339341299486,
+    "AugAPMSE": 0.0927872091425451
+  },
+  {
+    "name": "Bruno Martins Indi",
+    "teams": "Stoke City",
+    "minutes": 1310,
+    "fifa": 79,
+    "APM": -0.0781619494915062,
+    "AugAPM": -0.00724226683918153,
+    "AugAPMSE": 0.09641142360279
+  },
+  {
+    "name": "Francisco Femenía Far",
+    "teams": "Watford",
+    "minutes": 1817,
+    "fifa": 75,
+    "APM": -0.00968540598372636,
+    "AugAPM": -0.00758334140654504,
+    "AugAPMSE": 0.0931992006641704
+  },
+  {
+    "name": "Harry Maguire",
+    "teams": "Leicester City",
+    "minutes": 3618,
+    "fifa": 75,
+    "APM": -0.00964697104473584,
+    "AugAPM": -0.00765857356636888,
+    "AugAPMSE": 0.0952977501179515
+  },
+  {
+    "name": "Robert Kenedy Nunes do Nascimento",
+    "teams": "Newcastle United",
+    "minutes": 1061,
+    "fifa": 72,
+    "APM": 0.0306936617061266,
+    "AugAPM": -0.0077789137791017,
+    "AugAPMSE": 0.0971867062797858
+  },
+  {
+    "name": "Scott Dann",
+    "teams": "Crystal Palace",
+    "minutes": 1519,
+    "fifa": 78,
+    "APM": -0.0862328766726832,
+    "AugAPM": -0.00780681571071697,
+    "AugAPMSE": 0.0974104562291904
+  },
+  {
+    "name": "Danny Welbeck",
+    "teams": "Arsenal",
+    "minutes": 1283,
+    "fifa": 80,
+    "APM": -0.099707352909323,
+    "AugAPM": -0.00792249676114777,
+    "AugAPMSE": 0.0958511737443992
+  },
+  {
+    "name": "Laurent Depoitre",
+    "teams": "Huddersfield Town",
+    "minutes": 1946,
+    "fifa": 74,
+    "APM": -0.0226583302723641,
+    "AugAPM": -0.00880161350108416,
+    "AugAPMSE": 0.0982296007059062
+  },
+  {
+    "name": "Danny Simpson",
+    "teams": "Leicester City",
+    "minutes": 2423,
+    "fifa": 75,
+    "APM": 0.00302785579027002,
+    "AugAPM": -0.0103585979369703,
+    "AugAPMSE": 0.0945676469162901
+  },
+  {
+    "name": "José Izquierdo",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 2084,
+    "fifa": 78,
+    "APM": -0.0762800999768071,
+    "AugAPM": -0.0106895698201388,
+    "AugAPMSE": 0.0946197624021485
+  },
+  {
+    "name": "Renato Júnior Luz Sanches",
+    "teams": "Swansea City",
+    "minutes": 744,
+    "fifa": 76,
+    "APM": -0.0366134312887434,
+    "AugAPM": -0.0107003077830028,
+    "AugAPMSE": 0.0990478391475094
+  },
+  {
+    "name": "Joe Allen",
+    "teams": "Stoke City",
+    "minutes": 3315,
+    "fifa": 77,
+    "APM": -0.0334992600254859,
+    "AugAPM": -0.011363260810408,
+    "AugAPMSE": 0.0930072890430459
+  },
+  {
+    "name": "Molla Wagué",
+    "teams": "Watford",
+    "minutes": 461,
+    "fifa": 74,
+    "APM": 0.0199613150646627,
+    "AugAPM": -0.0115396396631806,
+    "AugAPMSE": 0.0992762011622646
+  },
+  {
+    "name": "Leroy Fer",
+    "teams": "Swansea City",
+    "minutes": 1471,
+    "fifa": 77,
+    "APM": -0.0672670405925179,
+    "AugAPM": -0.012471877621117,
+    "AugAPMSE": 0.0942268067710485
+  },
+  {
+    "name": "Konstantinos Stafylidis",
+    "teams": "Stoke City",
+    "minutes": 355,
+    "fifa": 75,
+    "APM": -0.000387318076867617,
+    "AugAPM": -0.0128999897603797,
+    "AugAPMSE": 0.0995677407347138
+  },
+  {
+    "name": "Craig Dawson",
+    "teams": "West Bromwich Albion",
+    "minutes": 2659,
+    "fifa": 75,
+    "APM": -0.0189062767925911,
+    "AugAPM": -0.0129844511296453,
+    "AugAPMSE": 0.0939671563457847
+  },
+  {
+    "name": "Ibrahim Afellay",
+    "teams": "Stoke City",
+    "minutes": 190,
+    "fifa": 78,
+    "APM": -0.0783037846608505,
+    "AugAPM": -0.0129993418882192,
+    "AugAPMSE": 0.0976519261958063
+  },
+  {
+    "name": "Alex Pritchard",
+    "teams": "Huddersfield Town",
+    "minutes": 1042,
+    "fifa": 73,
+    "APM": 0.0299253531239143,
+    "AugAPM": -0.0130847840293455,
+    "AugAPMSE": 0.0993476486197994
+  },
+  {
+    "name": "Cheikhou Kouyaté",
+    "teams": "West Ham United",
+    "minutes": 2948,
+    "fifa": 77,
+    "APM": -0.0252480147907698,
+    "AugAPM": -0.0156191846885143,
+    "AugAPMSE": 0.0941923376518264
+  },
+  {
+    "name": "André Carrillo",
+    "teams": "Watford",
+    "minutes": 1650,
+    "fifa": 77,
+    "APM": -0.0526331985614265,
+    "AugAPM": -0.0165265417649694,
+    "AugAPMSE": 0.0944262667852151
+  },
+  {
+    "name": "Chris Löwe",
+    "teams": "Huddersfield Town",
+    "minutes": 1659,
+    "fifa": 73,
+    "APM": -0.00398010449843009,
+    "AugAPM": -0.0176627890700073,
+    "AugAPMSE": 0.0982142506312789
+  },
+  {
+    "name": "Jesé Rodríguez Ruíz",
+    "teams": "Stoke City",
+    "minutes": 636,
+    "fifa": 77,
+    "APM": -0.0542756398917598,
+    "AugAPM": -0.0179100044829687,
+    "AugAPMSE": 0.0965332572001071
+  },
+  {
+    "name": "Mikel Merino Zazón",
+    "teams": "Newcastle United",
+    "minutes": 1433,
+    "fifa": 74,
+    "APM": -0.0237741958803826,
+    "AugAPM": -0.0186426084650167,
+    "AugAPMSE": 0.0946941219965605
+  },
+  {
+    "name": "Christian Kabasele",
+    "teams": "Watford",
+    "minutes": 2466,
+    "fifa": 75,
+    "APM": -0.0249589912935201,
+    "AugAPM": -0.0189083592105639,
+    "AugAPMSE": 0.0969993186753337
+  },
+  {
+    "name": "Winston Reid",
+    "teams": "West Ham United",
+    "minutes": 1538,
+    "fifa": 79,
+    "APM": -0.0692519266804935,
+    "AugAPM": -0.0189785646579981,
+    "AugAPMSE": 0.0969853347745145
+  },
+  {
+    "name": "Kelechi Iheanacho",
+    "teams": "Leicester City",
+    "minutes": 897,
+    "fifa": 75,
+    "APM": -0.0177514643100267,
+    "AugAPM": -0.0190944820460762,
+    "AugAPMSE": 0.0933931521984416
+  },
+  {
+    "name": "Marc Albrighton",
+    "teams": "Leicester City",
+    "minutes": 2661,
+    "fifa": 77,
+    "APM": -0.0629696218637139,
+    "AugAPM": -0.0197328970009008,
+    "AugAPMSE": 0.0943006350877777
+  },
+  {
+    "name": "James McClean",
+    "teams": "West Bromwich Albion",
+    "minutes": 1524,
+    "fifa": 74,
+    "APM": -0.010213996202138,
+    "AugAPM": -0.0217126702210898,
+    "AugAPMSE": 0.0971484889207469
+  },
+  {
+    "name": "Sandro Ramírez Castillo",
+    "teams": "Everton",
+    "minutes": 298,
+    "fifa": 77,
+    "APM": -0.0635662379349773,
+    "AugAPM": -0.0227787345483505,
+    "AugAPMSE": 0.0984164136415593
+  },
+  {
+    "name": "Jaïro Riedewald",
+    "teams": "Crystal Palace",
+    "minutes": 493,
+    "fifa": 74,
+    "APM": -0.00774280173669911,
+    "AugAPM": -0.0228686058786084,
+    "AugAPMSE": 0.0955250550530205
+  },
+  {
+    "name": "Jóhann Berg Gudmundsson",
+    "teams": "Burnley",
+    "minutes": 2964,
+    "fifa": 72,
+    "APM": -0.0214977223014897,
+    "AugAPM": -0.02483812573329,
+    "AugAPMSE": 0.094410502619702
+  },
+  {
+    "name": "Bruno Saltor Grau",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 2116,
+    "fifa": 72,
+    "APM": 0.0186290811304095,
+    "AugAPM": -0.0251888792988647,
+    "AugAPMSE": 0.095506240632016
+  },
+  {
+    "name": "Tomer Hemed",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 897,
+    "fifa": 72,
+    "APM": 0.0308730460125472,
+    "AugAPM": -0.0255574073665283,
+    "AugAPMSE": 0.096623726192516
+  },
+  {
+    "name": "Geoff Cameron",
+    "teams": "Stoke City",
+    "minutes": 1607,
+    "fifa": 76,
+    "APM": -0.0463197299701118,
+    "AugAPM": -0.0255727744181522,
+    "AugAPMSE": 0.0947222613740498
+  },
+  {
+    "name": "Jonathan Walters",
+    "teams": "Burnley",
+    "minutes": 52,
+    "fifa": 75,
+    "APM": -0.026401429259306,
+    "AugAPM": -0.0258724768072971,
+    "AugAPMSE": 0.102691959751681
+  },
+  {
+    "name": "Ashley Westwood",
+    "teams": "Burnley",
+    "minutes": 1186,
+    "fifa": 73,
+    "APM": -0.00309989055629624,
+    "AugAPM": -0.0268124359796323,
+    "AugAPMSE": 0.0955471005104501
+  },
+  {
+    "name": "Leonardo Ulloa",
+    "teams": "Leicester City,Brighton & Hove Albion",
+    "minutes": 335,
+    "fifa": 74,
+    "APM": 0.00026276169031952,
+    "AugAPM": -0.0271046686988793,
+    "AugAPMSE": 0.0973643816595861
+  },
+  {
+    "name": "Sebastian Prödl",
+    "teams": "Watford",
+    "minutes": 1662,
+    "fifa": 79,
+    "APM": -0.103047582536943,
+    "AugAPM": -0.0277389194494449,
+    "AugAPMSE": 0.0931616568190694
+  },
+  {
+    "name": "Luciano Narsingh",
+    "teams": "Swansea City",
+    "minutes": 688,
+    "fifa": 75,
+    "APM": -0.0330589515459489,
+    "AugAPM": -0.0282554912836532,
+    "AugAPMSE": 0.0987510267009753
+  },
+  {
+    "name": "Joshua King",
+    "teams": "AFC Bournemouth",
+    "minutes": 2597,
+    "fifa": 77,
+    "APM": -0.058835790805737,
+    "AugAPM": -0.0284686578217744,
+    "AugAPMSE": 0.0934889096727961
+  },
+  {
+    "name": "Steven Davis",
+    "teams": "Southampton",
+    "minutes": 1600,
+    "fifa": 77,
+    "APM": -0.0514021982935116,
+    "AugAPM": -0.0288570717228189,
+    "AugAPMSE": 0.0956802698369037
+  },
+  {
+    "name": "Yohan Benalouane",
+    "teams": "Leicester City",
+    "minutes": 96,
+    "fifa": 75,
+    "APM": -0.0298390754479389,
+    "AugAPM": -0.029342895365938,
+    "AugAPMSE": 0.0986791314754499
+  },
+  {
+    "name": "Aaron Cresswell",
+    "teams": "West Ham United",
+    "minutes": 3227,
+    "fifa": 76,
+    "APM": -0.0294617083967841,
+    "AugAPM": -0.0296553108857325,
+    "AugAPMSE": 0.0924240241754458
+  },
+  {
+    "name": "Etienne Capoue",
+    "teams": "Watford",
+    "minutes": 1632,
+    "fifa": 76,
+    "APM": -0.0473362716014634,
+    "AugAPM": -0.0305759094964864,
+    "AugAPMSE": 0.0958757740684708
+  },
+  {
+    "name": "Christopher Schindler",
+    "teams": "Huddersfield Town",
+    "minutes": 3469,
+    "fifa": 73,
+    "APM": -0.0616018163756853,
+    "AugAPM": -0.0312256186157673,
+    "AugAPMSE": 0.0935045559813879
+  },
+  {
+    "name": "Jürgen Locadia",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 236,
+    "fifa": 76,
+    "APM": -0.0522414851102006,
+    "AugAPM": -0.0321137443667099,
+    "AugAPMSE": 0.103159745679865
+  },
+  {
+    "name": "Guido Carrillo",
+    "teams": "Southampton",
+    "minutes": 469,
+    "fifa": 74,
+    "APM": -0.0147218145935378,
+    "AugAPM": -0.0323391285895424,
+    "AugAPMSE": 0.099389643094038
+  },
+  {
+    "name": "Florent Hadergjonaj",
+    "teams": "Huddersfield Town",
+    "minutes": 1765,
+    "fifa": 72,
+    "APM": -0.00554904396959301,
+    "AugAPM": -0.0327424377560133,
+    "AugAPMSE": 0.0921011056857302
+  },
+  {
+    "name": "Kyle Bartley",
+    "teams": "Swansea City",
+    "minutes": 251,
+    "fifa": 73,
+    "APM": 0.00771006277567963,
+    "AugAPM": -0.0329516379173012,
+    "AugAPMSE": 0.100352740225131
+  },
+  {
+    "name": "Jérémy Pied",
+    "teams": "Southampton",
+    "minutes": 188,
+    "fifa": 74,
+    "APM": -0.00867497676313653,
+    "AugAPM": -0.0336193439138434,
+    "AugAPMSE": 0.0978304807478492
+  },
+  {
+    "name": "Emerson Palmieri dos Santos",
+    "teams": "Chelsea",
+    "minutes": 296,
+    "fifa": 76,
+    "APM": -0.0368867368173919,
+    "AugAPM": -0.0341970682631893,
+    "AugAPMSE": 0.0998948888171969
+  },
+  {
+    "name": "Steve Mounié",
+    "teams": "Huddersfield Town",
+    "minutes": 1951,
+    "fifa": 76,
+    "APM": -0.104354745952194,
+    "AugAPM": -0.034530594390598,
+    "AugAPMSE": 0.094756118374474
+  },
+  {
+    "name": "Davy Pröpper",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 3295,
+    "fifa": 77,
+    "APM": -0.114580061513021,
+    "AugAPM": -0.0349979733833263,
+    "AugAPMSE": 0.0955452860778049
+  },
+  {
+    "name": "Martin Kelly",
+    "teams": "Crystal Palace",
+    "minutes": 1258,
+    "fifa": 73,
+    "APM": -0.0125962801022472,
+    "AugAPM": -0.0352229681361335,
+    "AugAPMSE": 0.0959403202259002
+  },
+  {
+    "name": "Bakary Sako",
+    "teams": "Crystal Palace",
+    "minutes": 543,
+    "fifa": 72,
+    "APM": 0.0264897190715922,
+    "AugAPM": -0.0359375582370576,
+    "AugAPMSE": 0.0981768680821713
+  },
+  {
+    "name": "Oleksandr Zinchenko",
+    "teams": "Manchester City",
+    "minutes": 554,
+    "fifa": 72,
+    "APM": 0.0476264671702566,
+    "AugAPM": -0.0365938148939281,
+    "AugAPMSE": 0.0995248729117629
+  },
+  {
+    "name": "Erik Pieters",
+    "teams": "Stoke City",
+    "minutes": 2861,
+    "fifa": 75,
+    "APM": -0.0218560799036353,
+    "AugAPM": -0.0374538776445602,
+    "AugAPMSE": 0.0928220938171095
+  },
+  {
+    "name": "Sam Clucas",
+    "teams": "Swansea City",
+    "minutes": 2151,
+    "fifa": 71,
+    "APM": 0.0141030007316981,
+    "AugAPM": -0.0388409592099676,
+    "AugAPMSE": 0.0922679944921837
+  },
+  {
+    "name": "Daryl Janmaat",
+    "teams": "Watford",
+    "minutes": 1915,
+    "fifa": 77,
+    "APM": -0.0734060928388648,
+    "AugAPM": -0.0390460220294182,
+    "AugAPMSE": 0.0938986495629405
+  },
+  {
+    "name": "Fernando Fernández",
+    "teams": "Swansea City",
+    "minutes": 2821,
+    "fifa": 71,
+    "APM": 0.00465468423775517,
+    "AugAPM": -0.0399244684300477,
+    "AugAPMSE": 0.0934529246705878
+  },
+  {
+    "name": "Joe Gomez",
+    "teams": "Liverpool",
+    "minutes": 2008,
+    "fifa": 70,
+    "APM": 0.0831146162688814,
+    "AugAPM": -0.0400772181190822,
+    "AugAPMSE": 0.0946351252624776
+  },
+  {
+    "name": "Mario Lemina",
+    "teams": "Southampton",
+    "minutes": 1810,
+    "fifa": 77,
+    "APM": -0.0868295980683376,
+    "AugAPM": -0.0426253168539957,
+    "AugAPMSE": 0.0938106251278705
+  },
+  {
+    "name": "Àngel Rangel Zaragoza",
+    "teams": "Swansea City",
+    "minutes": 166,
+    "fifa": 74,
+    "APM": -0.0239087968096574,
+    "AugAPM": -0.0429801772452425,
+    "AugAPMSE": 0.0980894501765899
+  },
+  {
+    "name": "Pape Souaré",
+    "teams": "Crystal Palace",
+    "minutes": 10,
+    "fifa": 73,
+    "APM": -0.0014534178776283,
+    "AugAPM": -0.043154908637607,
+    "AugAPMSE": 0.097369474586396
+  },
+  {
+    "name": "Axel Tuanzebe",
+    "teams": "Manchester United",
+    "minutes": 4,
+    "fifa": 73,
+    "APM": -0.000216046776979256,
+    "AugAPM": -0.0442756354627923,
+    "AugAPMSE": 0.105741606885991
+  },
+  {
+    "name": "Charlie Taylor",
+    "teams": "Burnley",
+    "minutes": 1005,
+    "fifa": 73,
+    "APM": -0.0281584836720972,
+    "AugAPM": -0.0443032784746226,
+    "AugAPMSE": 0.0972125663038568
+  },
+  {
+    "name": "Ashley Young",
+    "teams": "Manchester United",
+    "minutes": 2566,
+    "fifa": 75,
+    "APM": 0.00630709265884681,
+    "AugAPM": -0.0443679587848889,
+    "AugAPMSE": 0.0949692295833363
+  },
+  {
+    "name": "Diafra Sakho",
+    "teams": "West Ham United",
+    "minutes": 369,
+    "fifa": 75,
+    "APM": -0.0455211617214021,
+    "AugAPM": -0.0444973463371382,
+    "AugAPMSE": 0.0964767684134109
+  },
+  {
+    "name": "Moussa Sissoko",
+    "teams": "Tottenham Hotspur",
+    "minutes": 1509,
+    "fifa": 77,
+    "APM": -0.0629868551525549,
+    "AugAPM": -0.0456187726991601,
+    "AugAPMSE": 0.0961427533291704
+  },
+  {
+    "name": "Mason Holgate",
+    "teams": "Everton",
+    "minutes": 1254,
+    "fifa": 67,
+    "APM": 0.0915587178811405,
+    "AugAPM": -0.0463257539296539,
+    "AugAPMSE": 0.096155483800417
+  },
+  {
+    "name": "Craig Cathcart",
+    "teams": "Watford",
+    "minutes": 524,
+    "fifa": 73,
+    "APM": -0.00594958805600932,
+    "AugAPM": -0.0464642703608956,
+    "AugAPMSE": 0.0999088128446723
+  },
+  {
+    "name": "Andrew Surman",
+    "teams": "AFC Bournemouth",
+    "minutes": 1991,
+    "fifa": 75,
+    "APM": -0.0519652679938944,
+    "AugAPM": -0.0465766255753377,
+    "AugAPMSE": 0.0923792795684907
+  },
+  {
+    "name": "Peter Crouch",
+    "teams": "Stoke City",
+    "minutes": 1689,
+    "fifa": 74,
+    "APM": -0.0223946694792714,
+    "AugAPM": -0.0469900120065318,
+    "AugAPMSE": 0.0921120100958408
+  },
+  {
+    "name": "Darren Fletcher",
+    "teams": "Stoke City",
+    "minutes": 2322,
+    "fifa": 76,
+    "APM": -0.0818266648374508,
+    "AugAPM": -0.047505964900236,
+    "AugAPMSE": 0.0930596234643799
+  },
+  {
+    "name": "Alfie Mawson",
+    "teams": "Swansea City",
+    "minutes": 3605,
+    "fifa": 73,
+    "APM": -0.0615212278690521,
+    "AugAPM": -0.0478913423345399,
+    "AugAPMSE": 0.0962966267729647
+  },
+  {
+    "name": "Tommy Smith",
+    "teams": "Huddersfield Town",
+    "minutes": 1992,
+    "fifa": 72,
+    "APM": -0.0319431531677553,
+    "AugAPM": -0.0484334482629229,
+    "AugAPMSE": 0.0946310343460851
+  },
+  {
+    "name": "Jeff Hendrick",
+    "teams": "Burnley",
+    "minutes": 2429,
+    "fifa": 75,
+    "APM": -0.104090571394599,
+    "AugAPM": -0.0495457311099739,
+    "AugAPMSE": 0.0974165027326832
+  },
+  {
+    "name": "Beram Kayal",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 807,
+    "fifa": 73,
+    "APM": -0.0256014928254127,
+    "AugAPM": -0.0503282888750273,
+    "AugAPMSE": 0.0944696990492217
+  },
+  {
+    "name": "Sam Byram",
+    "teams": "West Ham United",
+    "minutes": 265,
+    "fifa": 73,
+    "APM": -0.0189097788114918,
+    "AugAPM": -0.0504045111728258,
+    "AugAPMSE": 0.0990048007254743
+  },
+  {
+    "name": "Markus Suttner",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 1242,
+    "fifa": 74,
+    "APM": -0.0585109104684454,
+    "AugAPM": -0.050447454237008,
+    "AugAPMSE": 0.0924295403614853
+  },
+  {
+    "name": "Tom Carroll",
+    "teams": "Swansea City",
+    "minutes": 2710,
+    "fifa": 73,
+    "APM": -0.0498167436844994,
+    "AugAPM": -0.0504820273544266,
+    "AugAPMSE": 0.0931699246345351
+  },
+  {
+    "name": "Callum Wilson",
+    "teams": "AFC Bournemouth",
+    "minutes": 2065,
+    "fifa": 75,
+    "APM": -0.0667519887360412,
+    "AugAPM": -0.0509534847443717,
+    "AugAPMSE": 0.0944780807879046
+  },
+  {
+    "name": "Saido Berahino",
+    "teams": "Stoke City",
+    "minutes": 550,
+    "fifa": 76,
+    "APM": -0.0988036122339234,
+    "AugAPM": -0.0514819979356424,
+    "AugAPMSE": 0.0959857505540216
+  },
+  {
+    "name": "Pascal Groß",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 3014,
+    "fifa": 76,
+    "APM": -0.105844735377323,
+    "AugAPM": -0.0514899517652312,
+    "AugAPMSE": 0.0921430145586428
+  },
+  {
+    "name": "Nathan Redmond",
+    "teams": "Southampton",
+    "minutes": 2050,
+    "fifa": 77,
+    "APM": -0.0998196997927163,
+    "AugAPM": -0.052116690468425,
+    "AugAPMSE": 0.0974644948583981
+  },
+  {
+    "name": "Dwight Gayle",
+    "teams": "Newcastle United",
+    "minutes": 2057,
+    "fifa": 75,
+    "APM": -0.123026041681771,
+    "AugAPM": -0.0528856111381973,
+    "AugAPMSE": 0.0959174348440909
+  },
+  {
+    "name": "Phil Bardsley",
+    "teams": "Burnley",
+    "minutes": 1188,
+    "fifa": 72,
+    "APM": -0.0300619361759181,
+    "AugAPM": -0.0553185134088588,
+    "AugAPMSE": 0.0950937029112393
+  },
+  {
+    "name": "Gareth McAuley",
+    "teams": "West Bromwich Albion",
+    "minutes": 496,
+    "fifa": 77,
+    "APM": -0.115048412456439,
+    "AugAPM": -0.055845764816978,
+    "AugAPMSE": 0.0943027079313063
+  },
+  {
+    "name": "Elias Kachunga",
+    "teams": "Huddersfield Town",
+    "minutes": 1371,
+    "fifa": 72,
+    "APM": -0.0326901065419282,
+    "AugAPM": -0.0561746443693873,
+    "AugAPMSE": 0.0974955207466255
+  },
+  {
+    "name": "Danny Williams",
+    "teams": "Huddersfield Town",
+    "minutes": 1201,
+    "fifa": 71,
+    "APM": -0.00685773057248824,
+    "AugAPM": -0.0571528736440502,
+    "AugAPMSE": 0.0962702362780697
+  },
+  {
+    "name": "Damien Delaney",
+    "teams": "Crystal Palace",
+    "minutes": 104,
+    "fifa": 74,
+    "APM": -0.0517582305116183,
+    "AugAPM": -0.0572585209112613,
+    "AugAPMSE": 0.101358180195594
+  },
+  {
+    "name": "Charlie Daniels",
+    "teams": "AFC Bournemouth",
+    "minutes": 3184,
+    "fifa": 75,
+    "APM": -0.0678505243038872,
+    "AugAPM": -0.0579761840409916,
+    "AugAPMSE": 0.091017438303849
+  },
+  {
+    "name": "Charlie Adam",
+    "teams": "Stoke City",
+    "minutes": 442,
+    "fifa": 74,
+    "APM": -0.0578502704950556,
+    "AugAPM": -0.0592104428287123,
+    "AugAPMSE": 0.100611325898413
+  },
+  {
+    "name": "Glen Johnson",
+    "teams": "Stoke City",
+    "minutes": 576,
+    "fifa": 75,
+    "APM": -0.0764029749735211,
+    "AugAPM": -0.0593602695536282,
+    "AugAPMSE": 0.0964161379964687
+  },
+  {
+    "name": "Tammy Abraham",
+    "teams": "Swansea City",
+    "minutes": 1841,
+    "fifa": 73,
+    "APM": -0.0466091099012375,
+    "AugAPM": -0.0597870807178651,
+    "AugAPMSE": 0.0945820399855591
+  },
+  {
+    "name": "Rolando Aarons",
+    "teams": "Newcastle United",
+    "minutes": 151,
+    "fifa": 72,
+    "APM": -0.00845571197881983,
+    "AugAPM": -0.0602415156670374,
+    "AugAPMSE": 0.101836045134227
+  },
+  {
+    "name": "Chung-Yong Lee",
+    "teams": "Crystal Palace",
+    "minutes": 157,
+    "fifa": 72,
+    "APM": -0.00207418411836423,
+    "AugAPM": -0.0602465639555144,
+    "AugAPMSE": 0.101234017633356
+  },
+  {
+    "name": "Ben Chilwell",
+    "teams": "Leicester City",
+    "minutes": 1985,
+    "fifa": 70,
+    "APM": 0.0380378931729554,
+    "AugAPM": -0.0604531632488511,
+    "AugAPMSE": 0.0950527534241275
+  },
+  {
+    "name": "Benik Afobe",
+    "teams": "AFC Bournemouth",
+    "minutes": 583,
+    "fifa": 74,
+    "APM": -0.0603824128351444,
+    "AugAPM": -0.061066095996564,
+    "AugAPMSE": 0.0956949543823532
+  },
+  {
+    "name": "Simon Francis",
+    "teams": "AFC Bournemouth",
+    "minutes": 2917,
+    "fifa": 76,
+    "APM": -0.0941905930642863,
+    "AugAPM": -0.0613847983146346,
+    "AugAPMSE": 0.095833938226777
+  },
+  {
+    "name": "Scott Arfield",
+    "teams": "Burnley",
+    "minutes": 1395,
+    "fifa": 72,
+    "APM": -0.0472272052977599,
+    "AugAPM": -0.0621000495571497,
+    "AugAPMSE": 0.0934844840119131
+  },
+  {
+    "name": "Lewis Dunk",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 3600,
+    "fifa": 75,
+    "APM": -0.113614505954725,
+    "AugAPM": -0.0634194239752523,
+    "AugAPMSE": 0.0956553447328049
+  },
+  {
+    "name": "Matty James",
+    "teams": "Leicester City",
+    "minutes": 1042,
+    "fifa": 71,
+    "APM": -0.00552992298260721,
+    "AugAPM": -0.0645686210226039,
+    "AugAPMSE": 0.09432749408892
+  },
+  {
+    "name": "Shane Duffy",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 3462,
+    "fifa": 74,
+    "APM": -0.0883591602771126,
+    "AugAPM": -0.0667809162639841,
+    "AugAPMSE": 0.0963891348041666
+  },
+  {
+    "name": "Junior Stanislas",
+    "teams": "AFC Bournemouth",
+    "minutes": 1342,
+    "fifa": 73,
+    "APM": -0.0485165981009901,
+    "AugAPM": -0.0670304748378367,
+    "AugAPMSE": 0.0947585158276402
+  },
+  {
+    "name": "Moritz Bauer",
+    "teams": "Stoke City",
+    "minutes": 1364,
+    "fifa": 70,
+    "APM": 0.0322029286943526,
+    "AugAPM": -0.0686992370072256,
+    "AugAPMSE": 0.0972307577745552
+  },
+  {
+    "name": "Steve Cook",
+    "teams": "AFC Bournemouth",
+    "minutes": 2952,
+    "fifa": 77,
+    "APM": -0.143474537585191,
+    "AugAPM": -0.0696796260736035,
+    "AugAPMSE": 0.0948277185047992
+  },
+  {
+    "name": "Harry Winks",
+    "teams": "Tottenham Hotspur",
+    "minutes": 833,
+    "fifa": 72,
+    "APM": -0.00689012807343372,
+    "AugAPM": -0.070454738387806,
+    "AugAPMSE": 0.0965757547966623
+  },
+  {
+    "name": "Dale Stephens",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 3408,
+    "fifa": 74,
+    "APM": -0.097241799398921,
+    "AugAPM": -0.070918814283181,
+    "AugAPMSE": 0.0919799355698331
+  },
+  {
+    "name": "Demarai Gray",
+    "teams": "Leicester City",
+    "minutes": 1811,
+    "fifa": 74,
+    "APM": -0.0691425213335604,
+    "AugAPM": -0.0729992388235059,
+    "AugAPMSE": 0.0933223087272919
+  },
+  {
+    "name": "Gaëtan Bong",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 2349,
+    "fifa": 73,
+    "APM": -0.0571289199800637,
+    "AugAPM": -0.0733156567953263,
+    "AugAPMSE": 0.0934252168113198
+  },
+  {
+    "name": "Wayne Routledge",
+    "teams": "Swansea City",
+    "minutes": 475,
+    "fifa": 75,
+    "APM": -0.099817125391252,
+    "AugAPM": -0.0746529013314946,
+    "AugAPMSE": 0.0986476467471159
+  },
+  {
+    "name": "Liam Rosenior",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 179,
+    "fifa": 71,
+    "APM": -0.00579246057976897,
+    "AugAPM": -0.0746965795618875,
+    "AugAPMSE": 0.0997639219009226
+  },
+  {
+    "name": "Joel Ward",
+    "teams": "Crystal Palace",
+    "minutes": 1687,
+    "fifa": 75,
+    "APM": -0.100298560412868,
+    "AugAPM": -0.0750275336642179,
+    "AugAPMSE": 0.0940659208242708
+  },
+  {
+    "name": "Dominic Calvert-Lewin",
+    "teams": "Everton",
+    "minutes": 2014,
+    "fifa": 65,
+    "APM": 0.0995473459385791,
+    "AugAPM": -0.0753645347371675,
+    "AugAPMSE": 0.0962610020108932
+  },
+  {
+    "name": "Marko Grujić",
+    "teams": "Liverpool",
+    "minutes": 25,
+    "fifa": 71,
+    "APM": -0.00207402082374314,
+    "AugAPM": -0.0768466028354352,
+    "AugAPMSE": 0.100681615601111
+  },
+  {
+    "name": "Stephen Ireland",
+    "teams": "Stoke City",
+    "minutes": 142,
+    "fifa": 72,
+    "APM": -0.0330987642419443,
+    "AugAPM": -0.0772567176424849,
+    "AugAPMSE": 0.102025326220254
+  },
+  {
+    "name": "Kasey Palmer",
+    "teams": "Huddersfield Town",
+    "minutes": 182,
+    "fifa": 71,
+    "APM": -0.00436152418151162,
+    "AugAPM": -0.0775289160579321,
+    "AugAPMSE": 0.0991716627359305
+  },
+  {
+    "name": "Andy King",
+    "teams": "Leicester City,Swansea City",
+    "minutes": 1322,
+    "fifa": 72,
+    "APM": -0.0603793127503373,
+    "AugAPM": -0.0798178325505881,
+    "AugAPMSE": 0.0970383984560032
+  },
+  {
+    "name": "Cuco Martina",
+    "teams": "Everton",
+    "minutes": 1927,
+    "fifa": 71,
+    "APM": -0.0484436472152708,
+    "AugAPM": -0.0811512489006354,
+    "AugAPMSE": 0.0921335109314044
+  },
+  {
+    "name": "Tyrone Mings",
+    "teams": "AFC Bournemouth",
+    "minutes": 218,
+    "fifa": 71,
+    "APM": -0.0127667267517653,
+    "AugAPM": -0.081614715368319,
+    "AugAPMSE": 0.0980404091115928
+  },
+  {
+    "name": "Nahki Wells",
+    "teams": "Burnley",
+    "minutes": 89,
+    "fifa": 71,
+    "APM": -0.0152964368039905,
+    "AugAPM": -0.0822516630372313,
+    "AugAPMSE": 0.104514419824966
+  },
+  {
+    "name": "Dominic Solanke",
+    "teams": "Liverpool",
+    "minutes": 672,
+    "fifa": 70,
+    "APM": 0.0103633301008874,
+    "AugAPM": -0.0823498534002338,
+    "AugAPMSE": 0.0988520049058663
+  },
+  {
+    "name": "Uwe Hünemeier",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 22,
+    "fifa": 71,
+    "APM": -0.014955898459982,
+    "AugAPM": -0.0826104474313321,
+    "AugAPMSE": 0.0984292442860578
+  },
+  {
+    "name": "Solly March",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 1979,
+    "fifa": 71,
+    "APM": -0.0395634874981457,
+    "AugAPM": -0.083663889893759,
+    "AugAPMSE": 0.0895791124484624
+  },
+  {
+    "name": "Marc Pugh",
+    "teams": "AFC Bournemouth",
+    "minutes": 1050,
+    "fifa": 73,
+    "APM": -0.0605898499722542,
+    "AugAPM": -0.0842574313797549,
+    "AugAPMSE": 0.0951320074529698
+  },
+  {
+    "name": "Jeffrey Schlupp",
+    "teams": "Crystal Palace",
+    "minutes": 1839,
+    "fifa": 71,
+    "APM": -0.0530305956102209,
+    "AugAPM": -0.0852457205315514,
+    "AugAPMSE": 0.0950701864500752
+  },
+  {
+    "name": "Ruben Loftus-Cheek",
+    "teams": "Crystal Palace",
+    "minutes": 1972,
+    "fifa": 69,
+    "APM": 0.00509873467704915,
+    "AugAPM": -0.0859650186607309,
+    "AugAPMSE": 0.0968736374974789
+  },
+  {
+    "name": "Jay Fulton",
+    "teams": "Swansea City",
+    "minutes": 27,
+    "fifa": 70,
+    "APM": 0.00156458876032785,
+    "AugAPM": -0.0862237085363258,
+    "AugAPMSE": 0.101730313781084
+  },
+  {
+    "name": "Ben Watson",
+    "teams": "Watford",
+    "minutes": 479,
+    "fifa": 74,
+    "APM": -0.0910858086104131,
+    "AugAPM": -0.087741910506311,
+    "AugAPMSE": 0.0966259839699459
+  },
+  {
+    "name": "Massadio Haïdara",
+    "teams": "Newcastle United",
+    "minutes": 5,
+    "fifa": 70,
+    "APM": 0.0000740202585367668,
+    "AugAPM": -0.0904051719550875,
+    "AugAPMSE": 0.10036969102875
+  },
+  {
+    "name": "Jérémie Boga",
+    "teams": "Chelsea",
+    "minutes": 90,
+    "fifa": 71,
+    "APM": -0.0266257371119352,
+    "AugAPM": -0.0908316491880194,
+    "AugAPMSE": 0.099605904947493
+  },
+  {
+    "name": "Jordan Hugill",
+    "teams": "West Ham United",
+    "minutes": 35,
+    "fifa": 70,
+    "APM": -0.00356494160315668,
+    "AugAPM": -0.0909640763045742,
+    "AugAPMSE": 0.0995207891843386
+  },
+  {
+    "name": "Adrian Mariappa",
+    "teams": "Watford",
+    "minutes": 2348,
+    "fifa": 72,
+    "APM": -0.0614090176730596,
+    "AugAPM": -0.0913243129063769,
+    "AugAPMSE": 0.0965514087870757
+  },
+  {
+    "name": "Trent Alexander-Arnold",
+    "teams": "Liverpool",
+    "minutes": 1652,
+    "fifa": 68,
+    "APM": 0.0467079851889958,
+    "AugAPM": -0.0921243525419597,
+    "AugAPMSE": 0.0975246371969505
+  },
+  {
+    "name": "Adam Smith",
+    "teams": "AFC Bournemouth",
+    "minutes": 2213,
+    "fifa": 73,
+    "APM": -0.103646890247509,
+    "AugAPM": -0.0927037567184344,
+    "AugAPMSE": 0.0932876774591769
+  },
+  {
+    "name": "Michael Hefele",
+    "teams": "Huddersfield Town",
+    "minutes": 40,
+    "fifa": 70,
+    "APM": -0.00719097742869737,
+    "AugAPM": -0.093921683734926,
+    "AugAPMSE": 0.0984024149844352
+  },
+  {
+    "name": "Isaac Hayden",
+    "teams": "Newcastle United",
+    "minutes": 1458,
+    "fifa": 71,
+    "APM": -0.0782065591804691,
+    "AugAPM": -0.095208911703026,
+    "AugAPMSE": 0.0942736747848208
+  },
+  {
+    "name": "Sam Baldock",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 43,
+    "fifa": 70,
+    "APM": -0.0106203537558168,
+    "AugAPM": -0.0961135382488546,
+    "AugAPMSE": 0.097790959917066
+  },
+  {
+    "name": "Jamie Murphy",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 183,
+    "fifa": 69,
+    "APM": -0.0013986335482893,
+    "AugAPM": -0.0987683614366198,
+    "AugAPMSE": 0.0998957695772926
+  },
+  {
+    "name": "Edimilson Fernandes",
+    "teams": "West Ham United",
+    "minutes": 886,
+    "fifa": 69,
+    "APM": -0.0147479052573671,
+    "AugAPM": -0.103030616055619,
+    "AugAPMSE": 0.0988328493528232
+  },
+  {
+    "name": "Alexander Sørloth",
+    "teams": "Crystal Palace",
+    "minutes": 377,
+    "fifa": 69,
+    "APM": -0.0275406343057151,
+    "AugAPM": -0.103032230671858,
+    "AugAPMSE": 0.100513866961483
+  },
+  {
+    "name": "Jordon Ibe",
+    "teams": "AFC Bournemouth",
+    "minutes": 2103,
+    "fifa": 71,
+    "APM": -0.0686214210801235,
+    "AugAPM": -0.103639388181724,
+    "AugAPMSE": 0.091587821314999
+  },
+  {
+    "name": "Dan Gosling",
+    "teams": "AFC Bournemouth",
+    "minutes": 2095,
+    "fifa": 73,
+    "APM": -0.103772958186971,
+    "AugAPM": -0.103741434134422,
+    "AugAPMSE": 0.0937923190913091
+  },
+  {
+    "name": "Timothy Fosu-Mensah",
+    "teams": "Crystal Palace",
+    "minutes": 1692,
+    "fifa": 74,
+    "APM": -0.129303016260708,
+    "AugAPM": -0.104206193321523,
+    "AugAPMSE": 0.0944412829189067
+  },
+  {
+    "name": "Ezequiel Schelotto",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 1392,
+    "fifa": 75,
+    "APM": -0.143150422273983,
+    "AugAPM": -0.104587096641364,
+    "AugAPMSE": 0.0953376551759685
+  },
+  {
+    "name": "Nathan Aké",
+    "teams": "AFC Bournemouth",
+    "minutes": 3564,
+    "fifa": 75,
+    "APM": -0.150731844111376,
+    "AugAPM": -0.104752710734138,
+    "AugAPMSE": 0.0962401240598341
+  },
+  {
+    "name": "Rajiv van La Parra",
+    "teams": "Huddersfield Town",
+    "minutes": 2227,
+    "fifa": 69,
+    "APM": -0.0657054047213071,
+    "AugAPM": -0.106582666039123,
+    "AugAPMSE": 0.0936113289652739
+  },
+  {
+    "name": "Jan Bednarek",
+    "teams": "Southampton",
+    "minutes": 445,
+    "fifa": 68,
+    "APM": 0.00761705540171762,
+    "AugAPM": -0.107139872406365,
+    "AugAPMSE": 0.100876605604703
+  },
+  {
+    "name": "Isaiah Brown",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 348,
+    "fifa": 71,
+    "APM": -0.0557812954501665,
+    "AugAPM": -0.10730291850727,
+    "AugAPMSE": 0.0989529151424032
+  },
+  {
+    "name": "Kevin Long",
+    "teams": "Burnley",
+    "minutes": 1517,
+    "fifa": 70,
+    "APM": -0.0743804974792048,
+    "AugAPM": -0.109257358498485,
+    "AugAPMSE": 0.0946976345140905
+  },
+  {
+    "name": "Jason Puncheon",
+    "teams": "Crystal Palace",
+    "minutes": 588,
+    "fifa": 74,
+    "APM": -0.128613494186752,
+    "AugAPM": -0.11023757926196,
+    "AugAPMSE": 0.0965603346665493
+  },
+  {
+    "name": "Glenn Murray",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 2293,
+    "fifa": 73,
+    "APM": -0.112384478646702,
+    "AugAPM": -0.110336797136925,
+    "AugAPMSE": 0.094458508400236
+  },
+  {
+    "name": "Oliver Burke",
+    "teams": "West Bromwich Albion",
+    "minutes": 426,
+    "fifa": 70,
+    "APM": -0.037193486436308,
+    "AugAPM": -0.110584160291748,
+    "AugAPMSE": 0.0974552391398972
+  },
+  {
+    "name": "Philip Billing",
+    "teams": "Huddersfield Town",
+    "minutes": 816,
+    "fifa": 67,
+    "APM": 0.00551308789758756,
+    "AugAPM": -0.11239524154661,
+    "AugAPMSE": 0.0982943998193421
+  },
+  {
+    "name": "Scott Malone",
+    "teams": "Huddersfield Town",
+    "minutes": 1193,
+    "fifa": 71,
+    "APM": -0.0856241311478543,
+    "AugAPM": -0.113001697196613,
+    "AugAPMSE": 0.0940115014258514
+  },
+  {
+    "name": "Sullay Kaikai",
+    "teams": "Crystal Palace",
+    "minutes": 18,
+    "fifa": 68,
+    "APM": 0.00474625788238352,
+    "AugAPM": -0.117004408330222,
+    "AugAPMSE": 0.100380372402019
+  },
+  {
+    "name": "Ramadan Sobhi",
+    "teams": "Stoke City",
+    "minutes": 1319,
+    "fifa": 74,
+    "APM": -0.131872258782985,
+    "AugAPM": -0.117037738109801,
+    "AugAPMSE": 0.0931142536661634
+  },
+  {
+    "name": "Jamie Ward",
+    "teams": "Southampton",
+    "minutes": 1818,
+    "fifa": 67,
+    "APM": -0.00549096243042064,
+    "AugAPM": -0.117612300003854,
+    "AugAPMSE": 0.0940423699022058
+  },
+  {
+    "name": "Richarlison de Andrade",
+    "teams": "Watford",
+    "minutes": 2984,
+    "fifa": 73,
+    "APM": -0.134355999478273,
+    "AugAPM": -0.117764127608931,
+    "AugAPMSE": 0.0942769037897052
+  },
+  {
+    "name": "Rob Holding",
+    "teams": "Arsenal",
+    "minutes": 871,
+    "fifa": 72,
+    "APM": -0.0899062636414941,
+    "AugAPM": -0.11865965849541,
+    "AugAPMSE": 0.0952052267983668
+  },
+  {
+    "name": "Ryan Fraser",
+    "teams": "AFC Bournemouth",
+    "minutes": 2105,
+    "fifa": 73,
+    "APM": -0.109073822980489,
+    "AugAPM": -0.120351325455411,
+    "AugAPMSE": 0.0907618045177589
+  },
+  {
+    "name": "Connor Goldson",
+    "teams": "Brighton & Hove Albion",
+    "minutes": 210,
+    "fifa": 70,
+    "APM": -0.0529997664526662,
+    "AugAPM": -0.122089192656352,
+    "AugAPMSE": 0.100329899472804
+  },
+  {
+    "name": "Jack Stephens",
+    "teams": "Southampton",
+    "minutes": 2084,
+    "fifa": 70,
+    "APM": -0.0762128577973364,
+    "AugAPM": -0.122859390603504,
+    "AugAPMSE": 0.0967872534965248
+  },
+  {
+    "name": "Collin Quaner",
+    "teams": "Huddersfield Town",
+    "minutes": 1372,
+    "fifa": 68,
+    "APM": -0.0381241270439464,
+    "AugAPM": -0.123014931254248,
+    "AugAPMSE": 0.0957556708189412
+  },
+  {
+    "name": "Jacob Murphy",
+    "teams": "Newcastle United",
+    "minutes": 1222,
+    "fifa": 68,
+    "APM": -0.0653033051831667,
+    "AugAPM": -0.131750232677617,
+    "AugAPMSE": 0.0957426102640493
+  },
+  {
+    "name": "Matt Targett",
+    "teams": "Southampton",
+    "minutes": 174,
+    "fifa": 69,
+    "APM": -0.0501010510359518,
+    "AugAPM": -0.135070049920944,
+    "AugAPMSE": 0.0950210674099544
+  },
+  {
+    "name": "Emerson Hyndman",
+    "teams": "AFC Bournemouth",
+    "minutes": 59,
+    "fifa": 67,
+    "APM": -0.00328246800874122,
+    "AugAPM": -0.136450773358979,
+    "AugAPMSE": 0.0985181082791116
+  },
+  {
+    "name": "Dodi Lukebakio",
+    "teams": "Watford",
+    "minutes": 19,
+    "fifa": 67,
+    "APM": -0.0132590092069632,
+    "AugAPM": -0.143245788160079,
+    "AugAPMSE": 0.104490005419389
+  },
+  {
+    "name": "Ahmed Hegazy",
+    "teams": "West Bromwich Albion",
+    "minutes": 3586,
+    "fifa": 68,
+    "APM": -0.0616059084893566,
+    "AugAPM": -0.145057905580332,
+    "AugAPMSE": 0.0940862607290745
+  },
+  {
+    "name": "Josh Sims",
+    "teams": "Southampton",
+    "minutes": 187,
+    "fifa": 67,
+    "APM": -0.0182544731790218,
+    "AugAPM": -0.148113253522665,
+    "AugAPMSE": 0.100037594381097
+  },
+  {
+    "name": "Martin Cranie",
+    "teams": "Huddersfield Town",
+    "minutes": 191,
+    "fifa": 68,
+    "APM": -0.0548418804271998,
+    "AugAPM": -0.149093174117338,
+    "AugAPMSE": 0.101415976622912
+  },
+  {
+    "name": "Phil Foden",
+    "teams": "Manchester City",
+    "minutes": 65,
+    "fifa": 65,
+    "APM": 0.0291920088842666,
+    "AugAPM": -0.149226815998114,
+    "AugAPMSE": 0.10231878880122
+  },
+  {
+    "name": "Lewis Cook",
+    "teams": "AFC Bournemouth",
+    "minutes": 2373,
+    "fifa": 71,
+    "APM": -0.128327271945864,
+    "AugAPM": -0.149532721123608,
+    "AugAPMSE": 0.0954454814415388
+  },
+  {
+    "name": "Sam Field",
+    "teams": "West Bromwich Albion",
+    "minutes": 563,
+    "fifa": 64,
+    "APM": 0.0296109378451689,
+    "AugAPM": -0.150917366759239,
+    "AugAPMSE": 0.0974439871716164
+  },
+  {
+    "name": "Hal Robson-Kanu",
+    "teams": "West Bromwich Albion",
+    "minutes": 908,
+    "fifa": 67,
+    "APM": -0.0371556697757352,
+    "AugAPM": -0.150972644204608,
+    "AugAPMSE": 0.0978853256746874
+  },
+  {
+    "name": "Reece Oxford",
+    "teams": "West Ham United",
+    "minutes": 8,
+    "fifa": 66,
+    "APM": -0.000477905287554729,
+    "AugAPM": -0.152187956636006,
+    "AugAPMSE": 0.103055289798335
+  },
+  {
+    "name": "Lys Mousset",
+    "teams": "AFC Bournemouth",
+    "minutes": 694,
+    "fifa": 69,
+    "APM": -0.0813215559465386,
+    "AugAPM": -0.154969299103523,
+    "AugAPMSE": 0.0988846078395064
+  },
+  {
+    "name": "Brahim Díaz",
+    "teams": "Manchester City",
+    "minutes": 72,
+    "fifa": 66,
+    "APM": -0.00341866848084871,
+    "AugAPM": -0.155151523086852,
+    "AugAPMSE": 0.100038501974226
+  },
+  {
+    "name": "Dean Whitehead",
+    "teams": "Huddersfield Town",
+    "minutes": 83,
+    "fifa": 66,
+    "APM": -0.0180540616435743,
+    "AugAPM": -0.159265815877727,
+    "AugAPMSE": 0.0992191108914846
+  },
+  {
+    "name": "Josh Cullen",
+    "teams": "West Ham United",
+    "minutes": 16,
+    "fifa": 65,
+    "APM": 0.00158260519631152,
+    "AugAPM": -0.164774586794766,
+    "AugAPMSE": 0.101128294520147
+  },
+  {
+    "name": "Harvey Barnes",
+    "teams": "Leicester City",
+    "minutes": 24,
+    "fifa": 64,
+    "APM": 0.0179293565059766,
+    "AugAPM": -0.17046363584596,
+    "AugAPMSE": 0.104649078395532
+  },
+  {
+    "name": "Sam McQueen",
+    "teams": "Southampton",
+    "minutes": 177,
+    "fifa": 64,
+    "APM": 0.01327431777747,
+    "AugAPM": -0.172038220278974,
+    "AugAPMSE": 0.0993491203933931
+  },
+  {
+    "name": "Hamza Choudhury",
+    "teams": "Leicester City",
+    "minutes": 408,
+    "fifa": 65,
+    "APM": -0.0224870028030778,
+    "AugAPM": -0.175818678287838,
+    "AugAPMSE": 0.101736721896424
+  },
+  {
+    "name": "Declan Rice",
+    "teams": "West Ham United",
+    "minutes": 1534,
+    "fifa": 60,
+    "APM": 0.0628084885260864,
+    "AugAPM": -0.176690004861813,
+    "AugAPMSE": 0.101427316733721
+  },
+  {
+    "name": "Joe Lolley",
+    "teams": "Huddersfield Town",
+    "minutes": 239,
+    "fifa": 65,
+    "APM": -0.0312388511730096,
+    "AugAPM": -0.182348975681147,
+    "AugAPMSE": 0.0990265996247022
+  },
+  {
+    "name": "Ainsley Maitland-Niles",
+    "teams": "Arsenal",
+    "minutes": 977,
+    "fifa": 65,
+    "APM": -0.0433746498871586,
+    "AugAPM": -0.187217176597045,
+    "AugAPMSE": 0.101207268134998
+  },
+  {
+    "name": "Ademola Lookman",
+    "teams": "Everton",
+    "minutes": 189,
+    "fifa": 64,
+    "APM": -0.0170714545512693,
+    "AugAPM": -0.187371993263628,
+    "AugAPMSE": 0.100528247367414
+  },
+  {
+    "name": "Abdelhamid Sabiri",
+    "teams": "Huddersfield Town",
+    "minutes": 233,
+    "fifa": 64,
+    "APM": -0.0161220691778338,
+    "AugAPM": -0.187544032019519,
+    "AugAPMSE": 0.101761431903663
+  },
+  {
+    "name": "Ben Woodburn",
+    "teams": "Liverpool",
+    "minutes": 9,
+    "fifa": 63,
+    "APM": 0.0127598317369832,
+    "AugAPM": -0.192083490883008,
+    "AugAPMSE": 0.103809162438969
+  },
+  {
+    "name": "Aaron Wan-Bissaka",
+    "teams": "Crystal Palace",
+    "minutes": 653,
+    "fifa": 60,
+    "APM": 0.0405164799292581,
+    "AugAPM": -0.194337066281147,
+    "AugAPMSE": 0.102437619751227
+  },
+  {
+    "name": "Oliver McBurnie",
+    "teams": "Swansea City",
+    "minutes": 313,
+    "fifa": 63,
+    "APM": -0.00306716225101477,
+    "AugAPM": -0.195453346649309,
+    "AugAPMSE": 0.0995868363199634
+  },
+  {
+    "name": "Scott McTominay",
+    "teams": "Manchester United",
+    "minutes": 688,
+    "fifa": 63,
+    "APM": -0.00270562997633029,
+    "AugAPM": -0.201998168321419,
+    "AugAPMSE": 0.0993203016550917
+  },
+  {
+    "name": "Konstantinos Mavropanos",
+    "teams": "Arsenal",
+    "minutes": 201,
+    "fifa": 60,
+    "APM": 0.0387258619634173,
+    "AugAPM": -0.210788563939847,
+    "AugAPMSE": 0.103909202328194
+  },
+  {
+    "name": "Freddie Ladapo",
+    "teams": "Crystal Palace",
+    "minutes": 20,
+    "fifa": 62,
+    "APM": -0.0103637718443847,
+    "AugAPM": -0.22175253364098,
+    "AugAPMSE": 0.102869773032187
+  },
+  {
+    "name": "Lasse Sørensen",
+    "teams": "Stoke City",
+    "minutes": 76,
+    "fifa": 60,
+    "APM": 0.016371296367229,
+    "AugAPM": -0.233667798893723,
+    "AugAPMSE": 0.105543247862333
+  },
+  {
+    "name": "Rekeem Harper",
+    "teams": "West Bromwich Albion",
+    "minutes": 26,
+    "fifa": 61,
+    "APM": -0.00470002442763285,
+    "AugAPM": -0.233734173928401,
+    "AugAPMSE": 0.103652783556388
+  },
+  {
+    "name": "Jack Simpson",
+    "teams": "AFC Bournemouth",
+    "minutes": 72,
+    "fifa": 60,
+    "APM": 0.00588972987868372,
+    "AugAPM": -0.239416743066439,
+    "AugAPMSE": 0.106671029587599
+  },
+  {
+    "name": "Reiss Nelson",
+    "teams": "Arsenal",
+    "minutes": 151,
+    "fifa": 60,
+    "APM": -0.00598442066437093,
+    "AugAPM": -0.241423637203352,
+    "AugAPMSE": 0.10540528633273
+  },
+  {
+    "name": "Fousseni Diabaté",
+    "teams": "Leicester City",
+    "minutes": 637,
+    "fifa": 60,
+    "APM": -0.0138436587907161,
+    "AugAPM": -0.242129586964583,
+    "AugAPMSE": 0.101885131239809
+  },
+  {
+    "name": "Levi Lumeka",
+    "teams": "Crystal Palace",
+    "minutes": 29,
+    "fifa": 60,
+    "APM": 0.00593766943224459,
+    "AugAPM": -0.244038079349197,
+    "AugAPMSE": 0.106186979827443
+  },
+  {
+    "name": "Julien Ngoy",
+    "teams": "Stoke City",
+    "minutes": 22,
+    "fifa": 61,
+    "APM": -0.0255165150743326,
+    "AugAPM": -0.245715422923632,
+    "AugAPMSE": 0.100868409836665
+  },
+  {
+    "name": "Michael Obafemi",
+    "teams": "Southampton",
+    "minutes": 14,
+    "fifa": 60,
+    "APM": 0.00115931693829183,
+    "AugAPM": -0.246200103759805,
+    "AugAPMSE": 0.103530343005937
+  },
+  {
+    "name": "Dwight McNeil",
+    "teams": "Burnley",
+    "minutes": 6,
+    "fifa": 60,
+    "APM": -0.00121847785696627,
+    "AugAPM": -0.246998908165125,
+    "AugAPMSE": 0.101069925116987
+  },
+  {
+    "name": "Jonjoe Kenny",
+    "teams": "Everton",
+    "minutes": 1687,
+    "fifa": 57,
+    "APM": -0.000200626680078165,
+    "AugAPM": -0.247929662970881,
+    "AugAPMSE": 0.10045631750866
+  },
+  {
+    "name": "Lukas Nmecha",
+    "teams": "Manchester City",
+    "minutes": 22,
+    "fifa": 60,
+    "APM": -0.00457876437008842,
+    "AugAPM": -0.248380735941406,
+    "AugAPMSE": 0.103322056997977
+  },
+  {
+    "name": "Tyrese Campbell",
+    "teams": "Stoke City",
+    "minutes": 99,
+    "fifa": 60,
+    "APM": -0.00905691897133379,
+    "AugAPM": -0.25155298583929,
+    "AugAPMSE": 0.104387246186821
+  },
+  {
+    "name": "Joseph Willock",
+    "teams": "Arsenal",
+    "minutes": 87,
+    "fifa": 60,
+    "APM": -0.0112778333369111,
+    "AugAPM": -0.251672981461213,
+    "AugAPMSE": 0.103124602053692
+  },
+  {
+    "name": "Beni Baningime",
+    "teams": "Everton",
+    "minutes": 222,
+    "fifa": 60,
+    "APM": -0.0193285975580153,
+    "AugAPM": -0.252867813970623,
+    "AugAPMSE": 0.0992302208677605
+  },
+  {
+    "name": "Callum Hudson-Odoi",
+    "teams": "Chelsea",
+    "minutes": 37,
+    "fifa": 60,
+    "APM": -0.0105389088817127,
+    "AugAPM": -0.253192807402935,
+    "AugAPMSE": 0.106934737503265
+  },
+  {
+    "name": "Ethan Ampadu",
+    "teams": "Chelsea",
+    "minutes": 13,
+    "fifa": 60,
+    "APM": -0.0172417159393697,
+    "AugAPM": -0.256793775877768,
+    "AugAPMSE": 0.103962066242542
+  },
+  {
+    "name": "Jerome Sinclair",
+    "teams": "Watford",
+    "minutes": 44,
+    "fifa": 59,
+    "APM": 0.0050789971860436,
+    "AugAPM": -0.258234470161669,
+    "AugAPMSE": 0.103560597143655
+  },
+  {
+    "name": "Edward Nketiah",
+    "teams": "Arsenal",
+    "minutes": 34,
+    "fifa": 60,
+    "APM": -0.0182062707161797,
+    "AugAPM": -0.25839519504485,
+    "AugAPMSE": 0.103709932708485
+  },
+  {
+    "name": "Connor Roberts",
+    "teams": "Swansea City",
+    "minutes": 286,
+    "fifa": 60,
+    "APM": -0.0448376006780625,
+    "AugAPM": -0.270243729923989,
+    "AugAPMSE": 0.106700381109534
+  },
+  {
+    "name": "Tom Edwards",
+    "teams": "Stoke City",
+    "minutes": 502,
+    "fifa": 60,
+    "APM": -0.0696837418222305,
+    "AugAPM": -0.285336788180084,
+    "AugAPMSE": 0.100694934229351
+  },
+  {
+    "name": "Nikola Vlašić",
+    "teams": "Everton",
+    "minutes": 617,
+    "fifa": 60,
+    "APM": -0.088512683805242,
+    "AugAPM": -0.291063658614923,
+    "AugAPMSE": 0.100526862832903
+  },
+  {
+    "name": "Josh Tymon",
+    "teams": "Stoke City",
+    "minutes": 169,
+    "fifa": 60,
+    "APM": -0.0971862468624076,
+    "AugAPM": -0.303294325227697,
+    "AugAPMSE": 0.102257410519863
+  }
+]
