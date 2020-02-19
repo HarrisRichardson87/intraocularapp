@@ -75,7 +75,7 @@ class Nav extends Component {
         <form className="form-inline" onSubmit={this.handleSubmit}>
           <input className="form-control mr-sm-2" value={ text } list="browsers" name="browsers" type="search" onChange={this.onChange} aria-label="Search"></input>
           {this.renderSuggestions()}
-          <button className="btn btn-outline-success my-2 my-sm-0" type="submit" >Search</button>
+          <Link to='/search'><button className="btn btn-outline-success my-2 my-sm-0" type="submit" >Search</button></Link>
         </form>
       </nav>
     )

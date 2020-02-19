@@ -42,10 +42,13 @@ return (
     <div className="App">
         <Nav myCallback={this.myCallback.bind(this)}/>
         <Route exact path='/' component={News}></Route>
-        <Route exact path='/search' component={Search}></Route>
-        <Premier props2019={this.state.data1} props2018={this.state.data2} props20117={this.state.data3} props2016={this.state.data4}></Premier>
-        
-        {/* <Search props={this.state.listDataFromChild}/> */}
+        <Route exact path='/search' render={
+          (props) => <Search props={this.state.listDataFromChild}/> }/>
+        <Route exact path='/premier' render={
+          (props) => <Premier {...props} props2019={this.state.data1} props2018={this.state.data2} props20117={this.state.data3} props2016={this.state.data4}/>
+          } 
+        />
+    
     </div>
     </BrowserRouter>
   );
