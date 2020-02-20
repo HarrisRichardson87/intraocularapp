@@ -30,14 +30,20 @@ class Search extends Component {
   }
   render() {    
     const columns = [{
+    
+      dataField: "season",
+      text: 'Season',
+      sortable: true
+    },{
       dataField: 'team',
-      text: 'Team'
+      text: 'Team',
+      sortable: true
+
     }, {
       dataField: "minutes",
       text: 'Minutes',
-      sortable: true
-    },
-  {
+      sortable: true},
+      {
       dataField: "fifa",
       text: 'Fifa Rating',
       sortable: true
@@ -63,7 +69,6 @@ class Search extends Component {
         <div className="table table-striped table-bordered table-sm">
           <div>
             <h1>{this.props.package[0].name}</h1>
-            
           </div>
         <ToolkitProvider
           keyField="id"
@@ -80,8 +85,8 @@ class Search extends Component {
     }else{
       return(
        
-        <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '100vh'}}>
-           <img style={{animation: `spin ${this.state.speed}s linear infinite`}} height="400"src={logo} alt="img"/>
+        <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '80vh'}}>
+           <img style={{animation: `spin ${this.state.speed}s linear infinite`}} height="250"src={logo} alt="img"/>
         </div>
        
 

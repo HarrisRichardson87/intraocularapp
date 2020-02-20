@@ -34,7 +34,7 @@ class Premier extends Component {
     const { SearchBar } = Search;
     const columns = [{
         dataField: 'name',
-        text: 'Player Name',
+        text: 'Player',
         sortable: true, 
       }, {
         dataField: 'teams',
