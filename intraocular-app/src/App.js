@@ -31,53 +31,57 @@ myCallback (dataFromChild){
      if(dataFromChild === item.name){
         box.push({
             name: item.name,
+            season:'2018 - 2019',
             team: item.teams,
             minutes: item.minutes,
             fifa: item.fifa,
-            APM : item.APM.toFixed(2),
-            AugAPM : item.AugAPM.toFixed(2),
-            AugAPMSE: item.AugAPMSE.toFixed(2)
+            APM : item.APM,
+            AugAPM : item.AugAPM,
+            AugAPMSE: item.AugAPMSE
         })
-        
+        return
       }})
       this.state.data2.forEach((item) => {
         if(dataFromChild === item.name){
            box.push({
                name: item.name,
+               season:'2017 - 2018',
                team: item.teams,
                minutes: item.minutes,
                fifa: item.fifa,
-               APM : item.APM.toFixed(2),
-               AugAPM : item.AugAPM.toFixed(2),
-               AugAPMSE: item.AugAPMSE.toFixed(2)
+               APM : item.APM,
+               AugAPM : item.AugAPM,
+               AugAPMSE: item.AugAPMSE
            })
-           
+           return
          }})
          this.state.data3.forEach((item) => {
           if(dataFromChild === item.name){
              box.push({
                  name: item.name,
+                 season:'2016 - 2017',
                  team: item.teams,
                  minutes: item.minutes,
                  fifa: item.fifa,
-                 APM : item.APM.toFixed(2),
-                 AugAPM : item.AugAPM.toFixed(2),
-                 AugAPMSE: item.AugAPMSE.toFixed(2)
+                 APM : item.APM,
+                 AugAPM : item.AugAPM,
+                 AugAPMSE: item.AugAPMSE
              })
-             
+             return
            }})
            this.state.data4.forEach((item) => {
             if(dataFromChild === item.name){
                box.push({
                    name: item.name,
+                   season:'2015 - 2016',
                    team: item.teams,
                    minutes: item.minutes,
                    fifa: item.fifa,
-                   APM : item.APM.toFixed(2),
-                   AugAPM : item.AugAPM.toFixed(2),
-                   AugAPMSE: item.AugAPMSE.toFixed(2)
+                   APM : item.APM,
+                   AugAPM : item.AugAPM,
+                   AugAPMSE: item.AugAPMSE
                })
-               
+               return
              }})
             this.setState({package:box})
 }
@@ -85,6 +89,32 @@ myCallback (dataFromChild){
      
 
 componentDidMount = () =>{
+  
+  data2019.forEach(element => {
+  element.APM = element.APM.toFixed(3);
+  element.AugAPM = element.AugAPM.toFixed(3);
+  element.AugAPMSE = element.AugAPMSE.toFixed(3);
+ 
+});
+data2018.forEach(element => {
+  element.APM = element.APM.toFixed(3);
+  element.AugAPM = element.AugAPM.toFixed(3);
+  element.AugAPMSE = element.AugAPMSE.toFixed(3);
+ 
+});
+data2017.forEach(element => {
+  element.APM = element.APM.toFixed(3);
+  element.AugAPM = element.AugAPM.toFixed(3);
+  element.AugAPMSE = element.AugAPMSE.toFixed(3);
+ 
+});
+data2016.forEach(element => {
+  element.APM = element.APM.toFixed(3);
+  element.AugAPM = element.AugAPM.toFixed(3);
+  element.AugAPMSE = element.AugAPMSE.toFixed(3);
+ 
+});
+
   this.setState({data1 : data2019.map(data => data)})
   this.setState({data2 : data2018.map(data => data)})
   this.setState({data3 : data2017.map(data => data)})
