@@ -73,9 +73,9 @@ class Nav extends Component {
            intr()cular
          </Link>
         <form className="form-inline" onSubmit={this.handleSubmit}>
-          <input className="form-control mr-sm-2" value={ text } list="browsers" name="browsers" type="search" onChange={this.onChange} aria-label="Search"></input>
+          <input className="form-control mr-sm-2" autocomplete="off"value={ text } list="browsers" name="browsers" type="search"  onChange={this.onChange} aria-label="Search"></input>
           {this.renderSuggestions()}
-          <Link to='/search'><button className="btn btn-outline-success my-2 my-sm-0" type="submit" >Search</button></Link>
+          <Link to='/search'><button className="btn btn-outline-success my-2 my-sm-0" value="Submit"type="submit" >Search</button></Link>
         </form>
       </nav>
     )

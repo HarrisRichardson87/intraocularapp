@@ -16,24 +16,83 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-        listDataFromChild: '',
+        listDataFromChild: [],
         data1:[],
         data2:[],
         data3:[],
-        data4:[] 
+        data4:[],
+        package:[]
     };    
 }
-  myCallback (dataFromChild){
-      this.setState({listDataFromChild:dataFromChild})
-  
+myCallback (dataFromChild){
+  this.setState({listDataFromChild:dataFromChild})
+  let box = [];
+  this.state.data1.forEach((item) => {
+     if(dataFromChild === item.name){
+        box.push({
+            name: item.name,
+            team: item.teams,
+            minutes: item.minutes,
+            fifa: item.fifa,
+            APM : item.APM.toFixed(2),
+            AugAPM : item.AugAPM.toFixed(2),
+            AugAPMSE: item.AugAPMSE.toFixed(2)
+        })
+        
+      }})
+      this.state.data2.forEach((item) => {
+        if(dataFromChild === item.name){
+           box.push({
+               name: item.name,
+               team: item.teams,
+               minutes: item.minutes,
+               fifa: item.fifa,
+               APM : item.APM.toFixed(2),
+               AugAPM : item.AugAPM.toFixed(2),
+               AugAPMSE: item.AugAPMSE.toFixed(2)
+           })
+           
+         }})
+         this.state.data3.forEach((item) => {
+          if(dataFromChild === item.name){
+             box.push({
+                 name: item.name,
+                 team: item.teams,
+                 minutes: item.minutes,
+                 fifa: item.fifa,
+                 APM : item.APM.toFixed(2),
+                 AugAPM : item.AugAPM.toFixed(2),
+                 AugAPMSE: item.AugAPMSE.toFixed(2)
+             })
+             
+           }})
+           this.state.data4.forEach((item) => {
+            if(dataFromChild === item.name){
+               box.push({
+                   name: item.name,
+                   team: item.teams,
+                   minutes: item.minutes,
+                   fifa: item.fifa,
+                   APM : item.APM.toFixed(2),
+                   AugAPM : item.AugAPM.toFixed(2),
+                   AugAPMSE: item.AugAPMSE.toFixed(2)
+               })
+               
+             }})
+            this.setState({package:box})
 }
+    
+     
+
 componentDidMount = () =>{
   this.setState({data1 : data2019.map(data => data)})
   this.setState({data2 : data2018.map(data => data)})
   this.setState({data3 : data2017.map(data => data)})
   this.setState({data4 : data2016.map(data => data)})
-
 }
+
+
+
 
 render(){
 
@@ -41,9 +100,10 @@ return (
   <BrowserRouter>
     <div className="App">
         <Nav myCallback={this.myCallback.bind(this)}/>
-        <Route exact path='/' component={News}></Route>
+        <Route exact path='/' render={
+          (props) => <News {...props} leaders={this.state.data1} /> }/>
         <Route exact path='/search' render={
-          (props) => <Search props={this.state.listDataFromChild}/> }/>
+          (props) => <Search {...props} package={this.state.package} /> }/>
         <Route exact path='/premier' render={
           (props) => <Premier {...props} props2019={this.state.data1} props2018={this.state.data2} props20117={this.state.data3} props2016={this.state.data4}/>
           } 
