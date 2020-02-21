@@ -70,16 +70,18 @@ class Search extends Component {
           <div>
             <h1>{this.props.package[0].name}</h1>
           </div>
-        <ToolkitProvider
-          keyField="id"
-          data={this.props.package}
-          columns={ columns }>
-          { props => (
-          
-          <BootstrapTable { ...props.baseProps }/>
-            )
-          }
-          </ToolkitProvider>
+        <div id ="table">
+          <ToolkitProvider
+            keyField="id"
+            data={this.props.package}
+            columns={ columns }>
+            { props => (
+            
+            <BootstrapTable { ...props.baseProps }/>
+              )
+            }
+            </ToolkitProvider>
+        </div>
         </div>
       )
     }else{

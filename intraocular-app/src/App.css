@@ -189,3 +189,10 @@ label {
 #apm_top{
 	padding-top:100px;
 }
+#table{
+	overflow:auto;
+}
+
+#Harry {
+    overflow: auto;
+}

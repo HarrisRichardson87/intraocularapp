@@ -25,6 +25,7 @@ class App extends Component {
     };    
 }
 myCallback (dataFromChild){
+  console.log('running')
   this.setState({listDataFromChild:dataFromChild})
   let box = [];
   this.state.data1.forEach((item) => {

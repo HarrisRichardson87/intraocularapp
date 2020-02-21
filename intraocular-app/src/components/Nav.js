@@ -1,13 +1,8 @@
 import React, { Component } from "react";
 import logo from '../images/eye.png'
-import data2016 from '../local_data/PremierLeague2015.json'
-import data2017 from '../local_data/PremierLeague2016.json'
-import data2018 from '../local_data/PremierLeague2017.json'
 import data2019 from '../local_data/PremierLeague2018.json'
 import {Link} from 'react-router-dom'
-import { withRouter } from 'react-router';
-import { Redirect } from 'react-router';
-import Search from '../components/Search'
+
 class Nav extends Component {
 
   constructor(props) {
@@ -33,7 +28,6 @@ class Nav extends Component {
     this.setState({ redirect: true })
   }
 
-  
   onChange = (e) => {
     this.setState({text:e.target.value})
     e.preventDefault();
@@ -73,9 +67,9 @@ class Nav extends Component {
            intr()cular
          </Link>
         <form className="form-inline" onSubmit={this.handleSubmit}>
-          <input className="form-control mr-sm-2" autocomplete="off"value={ text } list="browsers" name="browsers" type="search"  onChange={this.onChange} aria-label="Search"></input>
+          <input className="form-control mr-sm-2" value={ text } list="browsers" name="browsers" type="search" onChange={this.onChange} aria-label="Search"></input>
           {this.renderSuggestions()}
-          <Link to='/search'><button className="btn btn-outline-success my-2 my-sm-0" value="Submit"type="submit" >Search</button></Link>
+          <Link to='/search'><button className="btn btn-outline-success my-2 my-sm-0" type="submit" >Search</button></Link>
         </form>
       </nav>
     )
