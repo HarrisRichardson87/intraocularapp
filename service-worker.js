@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/intraocularapp/precache-manifest.893e77b4dbc337e79b6adc8166c05ca7.js"
+  "/intraocularapp/precache-manifest.aa02889032562802264b82d465c4cb38.js"
 );
 
 self.addEventListener('message', (event) => {
