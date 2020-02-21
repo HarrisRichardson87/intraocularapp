@@ -12,22 +12,61 @@ class Premier extends Component {
             defaultSortName: 'name',  // default sort column name
             defaultSortOrder: 'desc'  // default sort order
         };
+        
 
         
     }
     state = {
-        dataSelect : []
+        button2019 : true,
+        button2018 : false,
+        button2017 : false,
+        button2016 : false
     }
     
     yearSelect = (e) =>{
       e.preventDefault()
-      console.log(e.currentTarget.value)
-      
+     if (e.currentTarget.value === 'button2018'){
+       this.setState({button2019:true})
+       this.setState({button2018:false})
+       this.setState({button2017:false})
+       this.setState({button2016:false})
+     }
+     else if (e.currentTarget.value === 'button2017'){
+      this.setState({button2018:true})
+      this.setState({button2019:false})
+      this.setState({button2017:false})
+      this.setState({button2016:false})
     }
+    else if (e.currentTarget.value === 'button2016'){
+      this.setState({button2018:false})
+      this.setState({button2019:false})
+      this.setState({button2017:true})
+      this.setState({button2016:false})
+    }
+    else if (e.currentTarget.value === 'button2015'){
+      this.setState({button2018:false})
+      this.setState({button2019:false})
+      this.setState({button2017:false})
+      this.setState({button2016:true})
+    }
+    }
+   
     
     render() {        
-       
-      
+    let data;
+    if(this.state.button2019){
+      data = this.props.props2019
+    }
+    else if(this.state.button2018){
+      data = this.props.props2018
+    }
+    else if(this.state.button2017){
+      data = this.props.props2017
+    }
+    else if(this.state.button2016){
+      data = this.props.props2016
+    }
+ 
     const { SearchBar } = Search;
     const columns = [{
         dataField: 'name',
@@ -76,7 +115,7 @@ class Premier extends Component {
             <div width="80" margin="0" data-sort-name=" AugAPM" data-sort-order="desc" data-sortable="true" className="table table-striped table-bordered table-sm fixed-table-body table-responsive " >
             <ToolkitProvider
                 keyField="id"
-                data={this.props.props2019}
+                data={data}
                 columns={ columns }
                 search
   >

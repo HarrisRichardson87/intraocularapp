@@ -136,7 +136,7 @@ return (
         <Route exact path='/search' render={
           (props) => <Search {...props} package={this.state.package} /> }/>
         <Route exact path='/premier' render={
-          (props) => <Premier {...props} props2019={this.state.data1} props2018={this.state.data2} props20117={this.state.data3} props2016={this.state.data4}/>
+          (props) => <Premier {...props} props2019={this.state.data1} props2018={this.state.data2} props2017={this.state.data3} props2016={this.state.data4}/>
           } 
         />
     

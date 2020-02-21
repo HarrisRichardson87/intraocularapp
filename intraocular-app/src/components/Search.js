@@ -17,17 +17,6 @@ class Search extends Component {
     speed: 14
     }
 }
-  componentDidMount = () =>{
-
-  }
-  
-  onChange = (e) => {
- 
-  };
-
-  renderSuggestions = () => {
-
-  }
   render() {    
     const columns = [{
     
