@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/intraocularapp/static/css/main.c0c113b9.chunk.css",
+    "main.js": "/intraocularapp/static/js/main.099e2978.chunk.js",
+    "main.js.map": "/intraocularapp/static/js/main.099e2978.chunk.js.map",
+    "runtime-main.js": "/intraocularapp/static/js/runtime-main.a074f211.js",
+    "runtime-main.js.map": "/intraocularapp/static/js/runtime-main.a074f211.js.map",
+    "static/css/2.cf33d70f.chunk.css": "/intraocularapp/static/css/2.cf33d70f.chunk.css",
+    "static/js/2.c11eb103.chunk.js": "/intraocularapp/static/js/2.c11eb103.chunk.js",
+    "static/js/2.c11eb103.chunk.js.map": "/intraocularapp/static/js/2.c11eb103.chunk.js.map",
+    "index.html": "/intraocularapp/index.html",
+    "precache-manifest.893e77b4dbc337e79b6adc8166c05ca7.js": "/intraocularapp/precache-manifest.893e77b4dbc337e79b6adc8166c05ca7.js",
+    "service-worker.js": "/intraocularapp/service-worker.js",
+    "static/css/2.cf33d70f.chunk.css.map": "/intraocularapp/static/css/2.cf33d70f.chunk.css.map",
+    "static/css/main.c0c113b9.chunk.css.map": "/intraocularapp/static/css/main.c0c113b9.chunk.css.map",
+    "static/js/2.c11eb103.chunk.js.LICENSE.txt": "/intraocularapp/static/js/2.c11eb103.chunk.js.LICENSE.txt",
+    "static/media/Premier-League.png": "/intraocularapp/static/media/Premier-League.3288dc89.png",
+    "static/media/eye.png": "/intraocularapp/static/media/eye.5c573269.png",
+    "static/media/harryCartoon.png": "/intraocularapp/static/media/harryCartoon.b78d06b2.png",
+    "static/media/App.css": "/intraocularapp/static/media/mocartoon.16527fdc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a074f211.js",
+    "static/css/2.cf33d70f.chunk.css",
+    "static/js/2.c11eb103.chunk.js",
+    "static/css/main.c0c113b9.chunk.css",
+    "static/js/main.099e2978.chunk.js"
+  ]
+}
