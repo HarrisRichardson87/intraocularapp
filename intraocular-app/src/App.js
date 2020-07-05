@@ -1,15 +1,18 @@
 import React, { Component } from 'react';
-import Nav from'./components/Nav';
-import News from './components/News'
-import Search from './components/Search'
-import Premier from './components/Premier'
-import data2019 from './local_data/PremierLeague2018.json'
-import data2018 from './local_data/PremierLeague2017.json'
-import data2017 from './local_data/PremierLeague2016.json'
-import data2016 from './local_data/PremierLeague2015.json'
+
+import Nav     from'./components/Nav';
+import News    from './components/News';
+import Search  from './components/Search';
+import Premier from './components/Premier';
+import About   from './components/About';
+
+import data2019 from './local_data/PremierLeague2018.json';
+import data2018 from './local_data/PremierLeague2017.json';
+import data2017 from './local_data/PremierLeague2016.json';
+import data2016 from './local_data/PremierLeague2015.json';
 
 
-import { BrowserRouter, Route } from 'react-router-dom'
+import { BrowserRouter, Route, Switch } from 'react-router-dom'
 import './App.css';
 
 class App extends Component {
@@ -85,12 +88,13 @@ myCallback (dataFromChild){
                return
              }})
             this.setState({package:box})
+
 }
-    
+
      
 
 componentDidMount = () =>{
-  
+   
   data2019.forEach(element => {
   element.APM = element.APM.toFixed(3);
   element.AugAPM = element.AugAPM.toFixed(3);
@@ -131,6 +135,8 @@ return (
   <BrowserRouter>
     <div className="App">
         <Nav myCallback={this.myCallback.bind(this)}/>
+        
+        <Switch>
         <Route exact path='/' render={
           (props) => <News {...props} leaders={this.state.data1} /> }/>
         <Route exact path='/search' render={
@@ -139,6 +145,11 @@ return (
           (props) => <Premier {...props} props2019={this.state.data1} props2018={this.state.data2} props2017={this.state.data3} props2016={this.state.data4}/>
           } 
         />
+         <Route path="/about">
+            <About />
+          </Route>
+       
+        </Switch>
     
     </div>
     </BrowserRouter>
