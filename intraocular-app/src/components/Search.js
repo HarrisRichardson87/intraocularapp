@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'react-bootstrap-table2-toolkit/dist/react-bootstrap-table2-toolkit.min.css';
 import logo from '../images/eye.png'
-import PremierLogo from '../images/Premier-League.png'
+
 import BootstrapTable from 'react-bootstrap-table-next';
 
 import ToolkitProvider from 'react-bootstrap-table2-toolkit';
