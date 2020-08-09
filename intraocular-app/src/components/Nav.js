@@ -71,15 +71,15 @@ class Nav extends Component {
       
         <nav className="navbar navbar-white bg-white justify-content-between shadow-sm">
      
-          <Link to='/' className="navbar-brand">
+          <Link to='/'style={{textDecoration:"none"}}className="navbar-brand">
             <img src={logo}width="30" height="30" alt="" ></img>
            intr()cular
          </Link>
-        <form className="form-inline" id="form"onSubmit={this.handleSubmit}>
+        {/* <form className="form-inline" id="form"onSubmit={this.handleSubmit}>
           <input className="form-control mr-sm-2" value={ text } list="browsers" id='theText' name="browsers" type="search" onChange={this.onChange} aria-label="Search"></input>
           {this.renderSuggestions()}
           <Link to='/search'><button className="btn btn-outline-success my-2 my-sm-0" type="submit" >Search</button></Link>
-        </form>
+        </form> */}
       </nav>
 
 

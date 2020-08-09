@@ -45,12 +45,6 @@ export default class About extends React.Component {
                         using only FIFA ratings. We also show that Augmented APM decorrelates players
                         that are highly collinear.</p>
 
-
-                        {/* <!-- Categories Widget --> */}
-
-                        
-                            <Paper>
-
                                 <h5 className="card-header">Check out</h5>
                                 <div className="card-body">
                                     <div className="row">
@@ -67,7 +61,6 @@ export default class About extends React.Component {
                                         </div>
                                     </div>
                                 </div>
-                            </Paper>
                         </div>
 
                     </div>
