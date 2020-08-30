@@ -139,7 +139,7 @@ return (
         
         <Switch>
           <Route exact path='/' render={
-            (props) => <News {...props} leaders={this.state.data1} /> }/>
+            (props) => <News /> }/>
           {/* <Route exact path='/search' render={
             (props) => <Search {...props} package={this.state.package} /> }/>
           <Route exact path='/premier' render={
@@ -152,6 +152,7 @@ return (
           <Route path="/shiny">
             <Shiny />
           </Route>
+    
        </Switch>
     
     </div>
